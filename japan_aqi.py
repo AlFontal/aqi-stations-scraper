@@ -28,6 +28,8 @@ stations_list = []
 for station_link in soup.find(id='map-stations').find_all('a'):
     stations_list.append(station_link.text.split(' (')[0])
 
+options = webdriver.FirefoxOptions()
+options.headless = True
 profile = webdriver.FirefoxProfile()
 profile.set_preference("browser.download.folderList", 2)
 profile.set_preference("browser.download.manager.showWhenStarting", False)
