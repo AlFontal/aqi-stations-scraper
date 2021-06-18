@@ -1,7 +1,7 @@
 name: 'Update datasets'
 
 on:
-
+  workflow_dispatch:
   schedule:
     # Dataset will be updated every Sunday at 2 AM UTC
     - cron: '0 2 * * 0'
