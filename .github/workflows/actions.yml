@@ -1,4 +1,4 @@
-name: 'Process Data'
+name: 'Update datasets'
 
 on:
   push:
@@ -22,7 +22,7 @@ jobs:
         poetry install
     - name: Fetch all datasets
       run: |
-        python japan_aqi.py
+        poetry run python -m japan_aqi.py
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
