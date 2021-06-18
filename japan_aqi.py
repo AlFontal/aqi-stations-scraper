@@ -35,7 +35,7 @@ profile.set_preference("browser.download.folderList", 2)
 profile.set_preference("browser.download.manager.showWhenStarting", False)
 profile.set_preference("browser.download.dir", os.path.join(os.getcwd(), download_folder))
 profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "text/plain")
-driver = webdriver.Firefox(firefox_profile=profile)
+driver = webdriver.Firefox(firefox_profile=profile, options=options)
 
 
 def download_station_data(driver: webdriver, station: str, sleep_time : int = 1):
