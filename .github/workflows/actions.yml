@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   schedule:
     # Dataset will be updated every Sunday at 2 AM UTC
-    - cron: '0 2 * * 7'
+    - cron: '0 2 * * 0'
 
 jobs:
   update:
