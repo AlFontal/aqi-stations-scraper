@@ -1,4 +1,5 @@
 import os
+import shutil
 import logging
 import requests
 import geckodriver_autoinstaller
@@ -18,9 +19,10 @@ japan_stations_url = 'https://aqicn.org/map/japan/'
 my_name = 'Alejandro Fontal'
 my_org = 'ISGlobal'
 my_email = 'alejandro.fontal@isglobal.org'
-download_folder = 'data/japan-aqi'
+download_folder = 'tmp_downloads'
+data_folder = 'data/japan-aqi'
 
-
+os.mkdir(download_folder)
 page = requests.get(japan_stations_url)
 soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -64,7 +66,7 @@ def download_station_data(driver: webdriver, station: str, sleep_time : int = 1)
     sleep(sleep_time * 3)
 
 
-for station in stations_list:
+for station in stations_list[:3]:
     try:
         download_station_data(driver, station, sleep_time=2)
         logger.info(msg=f'{station} data correctly downloaded')
@@ -74,5 +76,9 @@ for station in stations_list:
             download_station_data(driver, station, sleep_time=4)
         except Exception as e:
             logger.info(msg=f"{station} data couldn't be fetched: {e}")
+
+for file in os.listdir(download_folder):
+    shutil.move(os.path.join(download_folder, file),
+                os.path.join(data_folder, file))
 
 driver.close()
