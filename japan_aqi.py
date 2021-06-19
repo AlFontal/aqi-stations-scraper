@@ -66,7 +66,7 @@ def download_station_data(driver: webdriver, station: str, sleep_time : int = 1)
     sleep(sleep_time * 3)
 
 
-for station in stations_list[:3]:
+for station in stations_list:
     try:
         download_station_data(driver, station, sleep_time=2)
         logger.info(msg=f'{station} data correctly downloaded')
