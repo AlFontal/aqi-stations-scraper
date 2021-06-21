@@ -16,9 +16,9 @@ fh.setFormatter(logging.Formatter(fmt='%(asctime)s - %(message)s'))
 logger.addHandler(fh)
 
 japan_stations_url = 'https://aqicn.org/map/japan/'
-my_name = 'Alejandro Fontal'
-my_org = 'ISGlobal'
-my_email = 'alejandro.fontal@isglobal.org'
+my_name = os.environ['USER_FULL_NAME']
+my_org = os.environ['USER_ORGANIZATION']
+my_email = os.environ['USER_EMAIL']
 download_folder = 'tmp_downloads'
 data_folder = 'data/japan-aqi'
 
