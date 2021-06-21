@@ -7,7 +7,9 @@ import geckodriver_autoinstaller
 from time import sleep
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from dotenv import load_dotenv
 
+load_dotenv()
 geckodriver_autoinstaller.install()
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -22,6 +24,8 @@ my_email = os.environ['USER_EMAIL']
 download_folder = 'tmp_downloads'
 data_folder = 'data/japan-aqi'
 
+if os.path.exists(download_folder):
+    os.rmdir(download_folder)
 os.mkdir(download_folder)
 page = requests.get(japan_stations_url)
 soup = BeautifulSoup(page.content, 'html.parser')
@@ -74,6 +78,8 @@ for station in stations_list:
         logger.info(msg=f"{station} data couldn't be fetched: {e}, retrying with higher wait time")
         try:
             download_station_data(driver, station, sleep_time=4)
+            logger.info(msg=f'{station} data correctly downloaded')
+
         except Exception as e:
             logger.info(msg=f"{station} data couldn't be fetched: {e}")
 
