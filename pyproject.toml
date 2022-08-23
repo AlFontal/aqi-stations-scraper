@@ -11,6 +11,8 @@ requests = "^2.25.1"
 beautifulsoup4 = "^4.9.3"
 geckodriver-autoinstaller = "^0.1.0"
 python-dotenv = "^0.18.0"
+pandas = "^1.4.3"
+tqdm = "^4.64.0"
 
 [tool.poetry.dev-dependencies]
 
