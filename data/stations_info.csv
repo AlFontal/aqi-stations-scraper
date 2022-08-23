@@ -1,0 +1,594 @@
+station,coordinates,country,state,city,county,zipcode,address,prefecture
+"misakicho,-hyogo prefecture, japan","('34.6424651', '134.9835798')",Japan,Hyogo Prefecture,Akashi,,673-0028,,Hyogo
+"shikisai,-himeji, hyogo prefecture, japan","('34.8626974', '134.6364263')",Japan,Hyogo Prefecture,Himeji,,671-2214,,Hyogo
+"kita-33 johigashi, hokkaido prefecture, japan","('43.06451', '141.3466')",Japan,Hokkaidō,,,,,Hokkaido
+"mihara,-okinawa, okinawa, japan","('26.5599473', '128.0838704')",Japan,Okinawa Prefecture,Nago,,905-8540,,Okinawa
+"shinjo,-wakayama, wakayama, japan","('34.2416144', '135.28869')",Japan,Wakayama Prefecture,Wakayama,,640-8511,,Wakayama
+"higashitokorozawa,-tokorozawa, saitama, japan","('35.7946152', '139.5137512')",Japan,Saitama Prefecture,Tokorozawa,,359-0023,Higashitokorozawaekimae-Dori,Saitama
+"shinzaike-minamimachi, hyogo prefecture, japan","('34.710675', '135.240739')",Japan,Hyogo Prefecture,Kobe,,657-0035,Hachiman Hon-dori,Hyogo
+"wakakusadori,-kasugai, aichi, japan","('35.24762', '136.97229')",Japan,Aichi,,,,,Aichi
+"suginami,-ishioka, ibaraki, japan","('36.18333', '140.26667')",Japan,Ibaraki,,,,,Ibaraki
+"terada,-toride, ibaraki, japan","('35.9', '140.08333')",Japan,Ibaraki,,,,,Ibaraki
+"tajiri,-fukuoka, japan","('33.587212', '130.2502567')",Japan,Fukuoka Prefecture,Fukuoka,,819-0381,,Fukuoka
+"goichuonishi,-ichihara, chiba, japan","('35.51667', '140.08333')",Japan,Chiba,,,,,Chiba
+"kounodai,-iwata-shi, shizuoka-ken, japan","('34.74451', '137.85043')",Japan,Shizuoka,,Iwata,,,Shizuoka
+"kitaonie,-uozu, toyama, japan","('36.8314262', '137.4007809')",Japan,Toyama Prefecture,Uozu,,937-0067,,Toyama
+"okyōzuka,-nonoichi-shi, ishikawa-ken, japan","('36.51667', '136.61667')",Japan,Ishikawa,,Nonoichi-shi,,,Ishikawa
+"fujisawa,-fujisawa-shi, kanagawa-ken, japan","('35.3385665', '139.4863905')",Japan,Kanagawa Prefecture,Fujisawa,,251-0052,藤沢駅辻堂駅線,Kanagawa
+"totehonmachi,-kanagawa, japan","('35.543192', '139.6871772')",Japan,Kanagawa Prefecture,Kawasaki,,212-0022,,Kanagawa
+"sakurai,-osaka prefecture, japan","('34.816606', '135.4604763')",Japan,Osaka Prefecture,Minoh,,560-0043,西国街道,Osaka
+"kamoe,-shizuoka, japan","('34.7026', '137.72093')",Japan,Shizuoka Prefecture,Hamamatsu,,432-8024,,Shizuoka
+"ogawacho,-yokosuka, kanagawa, japan","('35.2823998', '139.6722596')",Japan,Kanagawa Prefecture,Yokosuka,,238-8550,,Kanagawa
+"midoridai,-ishikawa prefecture, japan","('36.6346525', '136.6304599')",Japan,Ishikawa Prefecture,,Kahoku County,920-0062,,Ishikawa
+"shinpukujicho,-aichi, japan","('35.18017', '136.90656')",Japan,Aichi,,,,,Aichi
+"saifu,-dazaifu, fukuoka, japan","('33.51278', '130.52389')",Japan,Fukuoka,,,,,Fukuoka
+"fukaimizuikecho,-osaka prefecture, japan","('34.68631', '135.51968')",Japan,Ōsaka,,,,,Osaka
+"kinkaimura-matsumachi, nagasaki, nagasaki, japan","('32.74472', '129.87361')",Japan,Nagasaki,,,,,Nagasaki
+"kawaguchi,-saitama, japan","('35.8078228', '139.7241054')",Japan,Saitama Prefecture,Kawaguchi,,,,Saitama
+"mikkaichicho,-kawachinagano, osaka prefecture, japan","('34.4366198', '135.5713025')",Japan,Osaka Prefecture,Kawachinagano,,586-0051,Osaka Pref Route 214,Osaka
+"tamuracho,-takamatsu, kagawa, japan","('34.3095328', '134.0305634')",Japan,Kagawa Prefecture,Takamatsu,,761-8057,,Kagawa
+"hamakoshien,-nishinomiya, hyogo prefecture, japan","('34.7175981', '135.3510462')",Japan,Hyogo Prefecture,Nishinomiya,,662-8567,,Hyogo
+"niigata-prefecture, japan","('37.6452283', '138.7669125')",Japan,Niigata Prefecture,,,,,Niigata
+"onarimachi,-kamakura, kanagawa, japan","('35.3184716', '139.548484')",Japan,Kanagawa Prefecture,Kamakura,,248-0012,,Kanagawa
+"sennaricho,-toyonaka, osaka prefecture, japan","('34.736867', '135.4722608')",Japan,Osaka Prefecture,Toyonaka,,561-0824,,Osaka
+"shukugawara,-kanagawa, japan","('35.6154495', '139.5796278')",Japan,Kanagawa Prefecture,Kawasaki,,214-0021,宿河原駅前商店会,Kanagawa
+"nakamagome,-ota, tokyo, japan","('35.56126', '139.71605')",Japan,Tōkyō,,Ōta,,,Tokyo
+"honchodori,-kanagawa, japan","('35.500073', '139.685244')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"otsubomachi,-takaoka, toyama, japan","('36.75', '137.01667')",Japan,Toyama,,,,,Toyama
+"enzankamishiogo,-koshu, yamanashi, japan","('35.7047903', '138.7175813')",Japan,Yamanashi Prefecture,Koshu,,404-0045,,Yamanashi
+"gakkōchōdōri-1 banchō, niigata-ken, japan","('37.52343', '138.91748')",Japan,Niigata,,,,,Niigata
+"matsufuridori,-ichinomiya, aichi, japan","('35.3', '136.8')",Japan,Aichi,,,,,Aichi
+"dekijima,-osaka prefecture, japan","('34.7070602', '135.4369699')",Japan,Osaka Prefecture,Osaka,,660-0824,Hanshin Expressway Route 3 Kobe Line,Osaka
+"ide,-kyoto prefecture, japan","('34.8084491', '135.8340929')",Japan,Kyoto Prefecture,,Tsuzuki County,,,Kyoto
+"hagurazaki,-izumisano, osaka prefecture, japan","('34.3993964', '135.299877')",Japan,Osaka Prefecture,Izumisano,,598-8508,日根野羽倉崎線,Osaka
+"yasunoyachō,-toyama-shi, toyama-ken, japan","('36.6927856', '137.2010591')",Japan,Toyama Prefecture,Toyama,,930-0884,,Toyama
+"mashito,-kasukabe-shi, saitama-ken, japan","('35.9827', '139.77574')",Japan,Saitama,,Kasukabe Shi,,,Saitama
+"sadowaracho-shimotajima, miyazaki, miyazaki, japan","('32.0327213', '131.4800186')",Japan,Miyazaki Prefecture,Miyazaki,,880-8505,,Miyazaki
+"hikoshima-sakomachi, shimonoseki, yamaguchi, japan","('33.95', '130.95')",Japan,Yamaguchi,,,,,Yamaguchi
+"sunashinden,-kawagoe-shi, saitama-ken, japan","('35.91149', '139.47924')",Japan,Saitama,,,,,Saitama
+"kamihonmachi,-ono, hyogo prefecture, japan","('34.849653', '134.93617')",Japan,Hyogo Prefecture,Ono,,675-1378,,Hyogo
+"yamanotahonmachi,-shimonoseki, yamaguchi, japan","('33.95', '130.95')",Japan,Yamaguchi,,,,,Yamaguchi
+"takaida-motomachi, higashiosaka, osaka prefecture, japan","('34.6698642', '135.5875351')",Japan,Osaka Prefecture,Higashiosaka,,577-0036,八尾茨木線,Osaka
+"ishincho,-aichi, japan","('35.18017', '136.90656')",Japan,Aichi,,,,,Aichi
+"kouchi,-hiratsuka, kanagawa, japan","('35.32306', '139.34222')",Japan,Kanagawa,,,,,Kanagawa
+"kojimashionasu,-kurashiki, okayama, japan","('34.479668', '133.77054')",Japan,Okayama Prefecture,Kurashiki,,711-0913,,Okayama
+"kojimaogawa,-kurashiki, okayama, japan","('34.58333', '133.76667')",Japan,Okayama,,,,,Okayama
+"shineichō,-niigata-ken, japan","('37.52343', '138.91748')",Japan,Niigata,,,,,Niigata
+"ekimae,-ibaraki, osaka prefecture, japan","('34.8161226', '135.5680229')",Japan,Osaka Prefecture,Ibaraki,,567-8505,,Osaka
+"mizuochicho,-sabae, fukui, japan","('35.94647', '136.18498')",Japan,Fukui,,,,,Fukui
+"esebicho,-shijonawate, osaka prefecture, japan","('34.7369388', '135.6345189')",Japan,Osaka Prefecture,Shijonawate,,575-0033,,Osaka
+"nishimachi,-tottori-shi, tottori-ken, japan","('35.4321184', '133.8207577')",Japan,Tottori Prefecture,Kurayoshi,,682-0861,,Tottori
+"kobuchi,-kanagawa, japan","('35.5559505', '139.4193144')",Japan,Kanagawa Prefecture,Sagamihara,,252-0344,古淵なつつばき通り,Kanagawa
+"katakuramachi,-hachioji, tokyo, japan","('35.6341846', '139.3411349')",Japan,,Hachioji,,192-0914,,
+"toba,-kaizuka, osaka prefecture, japan","('34.4371947', '135.3644043')",Japan,Osaka Prefecture,Kaizuka,,597-0081,,Osaka
+"nawamachi,-tokai, aichi, japan","('35.02676', '136.89846')",Japan,Aichi,,Tōkai-shi,,,Aichi
+"miyukicho,-hyogo prefecture, japan","('34.7868713', '135.3701006')",Japan,Hyogo Prefecture,Takarazuka,,664-0027,,Hyogo
+"mikunicho-yamagishi, sakai, fukui, japan","('36.16406', '136.25544')",Japan,Fukui,,Sakai,,,Fukui
+"haruta,-aichi, japan","('35.1431465', '136.8136626')",Japan,Aichi Prefecture,Nagoya,,454-0983,Nagoya Loop 2nd Line,Aichi
+"tanaka,-fukuoka-ken, japan","('33.5833187', '130.2688726')",Japan,Fukuoka Prefecture,Fukuoka,,819-0379,福岡志摩前原線,Fukuoka
+"jinryo,-tokushima, japan","('33.9819973', '134.3807959')",Japan,Tokushima Prefecture,,Myozai County,771-3310,,Tokushima
+"gorin,-miyagi, japan","('38.2634988', '140.9027425')",Japan,Miyagi Prefecture,Sendai,,983-0842,南目南裏原道線,Miyagi
+"taisanjicho,-matsuyama, ehime, japan","('33.887046', '132.724298')",Japan,Ehime Prefecture,Matsuyama,,791-8067,,Ehime
+"kawatsucho,-sakaide, kagawa, japan","('34.290638', '133.8629')",Japan,Kagawa Prefecture,Sakaide,,762-0037,,Kagawa
+"hayami-district, oita prefecture, japan","('33.19899', '131.43353')",Japan,Ōita,,,,,Oita
+"odakacho,-aichi, japan","('35.18017', '136.90656')",Japan,Aichi,,,,,Aichi
+"yoshizuka,-fukuoka, japan","('33.6071305', '130.423564')",Japan,Fukuoka Prefecture,Fukuoka,,812-0046,妙見通り,Fukuoka
+"ikegamicho,-kanagawa, japan","('35.517079', '139.7316229')",Japan,Kanagawa Prefecture,Kawasaki,,210-0832,,Kanagawa
+"motosojamachi,-maebashi, gunma, japan","('36.39111', '139.06083')",Japan,Gunma,,,,,Gunma
+"miyako,-nara-ken, japan","('34.5629445', '135.7820892')",Japan,Nara Prefecture,,Shiki County,636-0213,,Nara
+"higashihagoromo,-takaishi, osaka prefecture, japan","('34.51667', '135.43333')",Japan,Ōsaka,,,,,Osaka
+"hirota,-goshogawara, aomori, japan","('40.80444', '140.44139')",Japan,Aomori,,,,,Aomori
+"nonakakita,-osaka prefecture, japan","('34.7291331', '135.4820725')",Japan,Osaka Prefecture,Osaka,,532-0034,,Osaka
+"nagaoka,-tokyo, japan","('35.7621445', '139.6675347')",Japan,,Itabashi,,174-0074,Kawagoe-kaido,
+"nodago,-nagasaki, japan","('32.8243798', '129.8415328')",Japan,Nagasaki Prefecture,,Nishi-Sonogi County,851-2108,,Nagasaki
+"nishiiwata,-higashiosaka, osaka prefecture, japan","('34.66667', '135.58333')",Japan,Ōsaka,,,,,Osaka
+"shishibone,-edogawa, tokyo, japan","('35.7147907', '139.8862724')",Japan,,Edogawa,,133-0073,,
+"nishikujo-nandencho, kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"kanokoden,-aichi, japan","('35.18017', '136.90656')",Japan,Aichi,,,,,Aichi
+"tsutogawacho,-nishinomiya, hyogo prefecture, japan","('34.7322407', '135.3483123')",Japan,Hyogo Prefecture,Nishinomiya,,662-8567,,Hyogo
+"tomihisamachi,-matsuyama, ehime, japan","('33.822368', '132.728708')",Japan,Ehime Prefecture,Matsuyama,,791-8036,,Ehime
+"uchidecho,-ashiya, hyogo prefecture, japan","('34.731991', '135.3189626')",Japan,Hyogo Prefecture,Ashiya,,659-8501,,Hyogo
+"shirasagi,-tochigi, japan","('36.4407392', '139.911256')",Japan,Tochigi Prefecture,,Kawachi County,329-0611,,Tochigi
+"takanedai,-funabashi, chiba, japan","('35.7286721', '140.0447479')",Japan,Chiba Prefecture,Funabashi,,,,Chiba
+"tsukisamuchuodori,-hokkaido prefecture, japan","('43.06451', '141.3466')",Japan,Hokkaidō,,,,,Hokkaido
+"kabe,-hiroshima, japan","('34.5123673', '132.51067')",Japan,Hiroshima Prefecture,Hiroshima,,731-0223,National Highway Route 183,Hiroshima
+"hinode,-funabashi, chiba, japan","('35.69306', '139.98333')",Japan,Chiba,,,,,Chiba
+"hōgawachō,-shizuoka-ken, japan","('35.02522', '138.32542')",Japan,Shizuoka,,,,,Shizuoka
+"tanabemyota,-kyotanabe, kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"aioicho,-shizuoka, japan","('35.01667', '138.48333')",Japan,Shizuoka,,,,,Shizuoka
+"moriai,-fukushima, fukushima, japan","('37.7664941', '140.4529811')",Japan,Fukushima Prefecture,Fukushima,,960-8003,,Fukushima
+"ekiminamimachi,-kochi prefecture, japan","('33.42801', '133.36401')",Japan,Kōchi,,,,,Kochi
+"chuocho,-higashikurume, tokyo, japan","('35.75821', '139.52954')",Japan,Tōkyō,,Higashikurume,,,Tokyo
+"kubocho,-matsusaka, mie, japan","('34.56667', '136.53333')",Japan,Mie,,,,,Mie
+"kitatakumachi-oaza kosamurai, taku, saga prefecture, japan","('33.28904', '130.11491')",Japan,Saga,,,,,Saga
+"sadatomocho,-echizen, fukui, japan","('35.88946', '136.17723')",Japan,Fukui,,Echizen,,,Fukui
+"natsushimacho,-yokosuka, kanagawa, japan","('35.3215278', '139.6437182')",Japan,Kanagawa Prefecture,Yokosuka,,238-8550,,Kanagawa
+"ochikawa,-hino, tokyo, japan","('35.6562614', '139.43123')",Japan,,Hino,,191-0032,Kawasaki Kaido,
+"tenjin,-fukuoka, japan","('33.5903225', '130.3998391')",Japan,Fukuoka Prefecture,Fukuoka,,810-0001,,Fukuoka
+"hata,-ikeda, osaka prefecture, japan","('34.82208', '135.4298')",Japan,Ōsaka,,,,,Osaka
+"ohashi,-fukuoka, japan","('33.5592054', '130.4264655')",Japan,Fukuoka Prefecture,Fukuoka,,815-0037,Nisseki Avenue,Fukuoka
+"shimizucho,-yao, osaka prefecture, japan","('34.6250011', '135.6003854')",Japan,Osaka Prefecture,Yao,,581-0004,Osakako-Yao line,Osaka
+"takabana,-inzai, chiba, japan","('35.83479', '140.16361')",Japan,Chiba,,,,,Chiba
+"kamo,-kawanishi, hyogo prefecture, japan","('34.81667', '135.41667')",Japan,Hyōgo,,,,,Hyogo
+"mizushima-higashichidoricho, kurashiki, okayama, japan","('34.529298', '133.740536')",Japan,Okayama Prefecture,Kurashiki,,712-8051,,Okayama
+"kizu,-kizugawa, kyoto prefecture, japan","('34.7358877', '135.8249246')",Japan,Kyoto Prefecture,Kizugawa,,619-0214,東西連絡通路,Kyoto
+"oyama,-niigata, japan","('37.4312704', '138.8823501')",Japan,Niigata Prefecture,Nagaoka,,940-0828,,Niigata
+"befucho-nishimachi, kakogawa, hyogo prefecture, japan","('34.7262356', '134.8416907')",Japan,Hyogo Prefecture,Kakogawa,,675-0133,,Hyogo
+"sekiyama,-hasuda-shi, saitama-ken, japan","('36.00147', '139.64981')",Japan,Saitama,,,,,Saitama
+"yazakogondai,-nagakute, aichi, japan","('35.18335', '137.04895')",Japan,Aichi,,Nagakute-shi,,,Aichi
+"ozone,-sodegaura-shi, chiba-ken, japan","('35.41642', '140.01771')",Japan,Chiba,,Sodegaura-shi,,,Chiba
+"tokiwacho,-shizuoka, japan","('34.97695', '138.38306')",Japan,Shizuoka,,,,,Shizuoka
+"nishihamasadacho,-matsue, shimane, japan","('35.4775863', '133.0086833')",Japan,Shimane Prefecture,Matsue,,690-0859,,Shimane
+"hiraidemachi,-utsunomiya, tochigi, japan","('36.56583', '139.88361')",Japan,Tochigi,,,,,Tochigi
+"momoyamacho,-obu, aichi, japan","('35', '136.96667')",Japan,Aichi,,,,,Aichi
+"matsue,-kurashiki, okayama, japan","('34.515598', '133.758636')",Japan,Okayama Prefecture,Kurashiki,,712-8044,,Okayama
+"shinbohon,-kanazawa, ishikawa, japan","('36.5566468', '136.6059609')",Japan,Ishikawa Prefecture,Kanazawa,,921-8063,,Ishikawa
+"kusatsucho,-kusatsu, shiga, japan","('35.01667', '135.96667')",Japan,Shiga-ken,,,,,Shiga
+"furuichi,-hiroshima, japan","('34.4577195', '132.4752085')",Japan,Hiroshima Prefecture,Hiroshima,,731-0121,広島豊平線,Hiroshima
+"aioi,-hyogo prefecture, japan","('34.8097456', '134.4719626')",Japan,Hyogo Prefecture,Aioi,,,,Hyogo
+"akiumachi-nagafukuro, miyagi-ken, japan","('38.2632984', '140.6674195')",Japan,Miyagi Prefecture,Sendai,,982-0243,,Miyagi
+"minamikasugamachi,-oita, oita prefecture, japan","('33.23806', '131.6125')",Japan,Ōita,,,,,Oita
+"nishitogawacho,-ogaki, gifu, japan","('35.35', '136.61667')",Japan,Gifu,,,,,Gifu
+"chūō,-iwanuma-shi, miyagi-ken, japan","('38.11667', '140.88333')",Japan,Miyagi,,Iwanuma-shi,,,Miyagi
+"misasamachi,-hiroshima-ken, japan","('34.415069', '132.454524')",Japan,Hiroshima Prefecture,Hiroshima,,733-0003,,Hiroshima
+"nishijin,-fukuoka, japan","('33.5837344', '130.3594592')",Japan,Fukuoka Prefecture,Fukuoka,,814-0002,Meiji Dori,Fukuoka
+"tarui,-sennan, osaka prefecture, japan","('34.3742671', '135.2615056')",Japan,Osaka Prefecture,Sennan,,590-0592,樽井停車場樽井線,Osaka
+"sumida,-kanagawa, japan","('35.5300958', '139.3153953')",Japan,Kanagawa Prefecture,,Aiko County,243-0308,,Kanagawa
+"hiroekimae,-kure, hiroshima, japan","('34.2305852', '132.6300068')",Japan,Hiroshima Prefecture,Kure,,,,Hiroshima
+"okitsunakacho,-shizuoka, japan","('34.97695', '138.38306')",Japan,Shizuoka,,,,,Shizuoka
+"niizo,-toda-shi, saitama-ken, japan","('35.8191554', '139.6639726')",Japan,Saitama Prefecture,Toda,,335-0021,,Saitama
+"kisukicho-satogata, unnan, shimane, japan","('35.3060318', '132.9042662')",Japan,Shimane Prefecture,Unnan,,,,Shimane
+"kokubunjicho-nii, takamatsu, kagawa, japan","('34.3150123', '133.9666553')",Japan,Kagawa Prefecture,Takamatsu,,769-0101,,Kagawa
+"nodomibun,-kashima, saga prefecture, japan","('33.10611', '130.09056')",Japan,Saga,,,,,Saga
+"tsudamachi-tsuda, sanuki, kagawa, japan","('34.3004943', '134.2404785')",Japan,Kagawa Prefecture,Sanuki,,769-2103,,Kagawa
+"shimoayashi,-miyagi prefecture, japan","('38.2698837', '140.7691955')",Japan,Miyagi Prefecture,Sendai,,989-3127,,Miyagi
+"kita-1 jonishi, hokkaido prefecture, japan","('43.0910285', '141.343135')",Japan,Hokkaido Prefecture,Sapporo,,001-0024,12 Nishi5chome tarukawa dori,Hokkaido
+"inokuchi,-hiroshima, japan","('34.372177', '132.3865598')",Japan,Hiroshima Prefecture,Hiroshima,,733-8624,Miyajima Kaido Avenue,Hiroshima
+"futamicho-higashifutami, akashi, hyogo prefecture, japan","('34.7012355', '134.8903358')",Japan,Hyogo Prefecture,Akashi,,674-8501,,Hyogo
+"iwasakinishi,-ichihara-shi, chiba-ken, japan","('35.42484', '140.13725')",Japan,Chiba,,Ichihara-shi,,,Chiba
+"chuo,-konosu, saitama, japan","('36.06868', '139.51684')",Japan,Saitama,,,,,Saitama
+"amori,-nagano, nagano, japan","('36.6302229', '138.1618403')",Japan,Nagano Prefecture,,,380-0941,National Highway Route 19,Nagano
+"masuda,-natori, miyagi, japan","('38.1560038', '140.9173105')",Japan,Miyagi Prefecture,Natori,,981-1227,,Miyagi
+"nankohigashi,-osaka prefecture, japan","('34.68631', '135.51968')",Japan,Ōsaka,,,,,Osaka
+"misa,-oita, oita prefecture, japan","('33.23806', '131.6125')",Japan,Ōita,,,,,Oita
+"goromaru,-inuyama, aichi, japan","('35.36232', '136.98072')",Japan,Aichi,,Inuyama-shi,,,Aichi
+"yokota,-oita, oita prefecture, japan","('33.2486222', '131.7134002')",Japan,Oita Prefecture,Oita,,870-0263,大在中央通り,Oita
+"tenpaku-ku,-nagoya-shi, aichi-ken, japan","('35.111779', '136.97134')",Japan,Aichi Prefecture,Nagoya,,,,Aichi
+"ishii,-kasama, ibaraki, japan","('36.38333', '140.26667')",Japan,Ibaraki,,,,,Ibaraki
+"matsushitacho,-aichi, japan","('35.18017', '136.90656')",Japan,Aichi,,,,,Aichi
+"kamiyacho,-hiroshima prefecture, japan","('34.3951434', '132.4588371')",Japan,Hiroshima Prefecture,Hiroshima,,730-0032,Aioi dori Avenue,Hiroshima
+"hanamigawa,-chiba, japan","('35.6892009', '140.0950082')",Japan,Chiba Prefecture,Chiba,,260-0046,,Chiba
+"shimohoya,-nishitokyo, tokyo, japan","('35.7510848', '139.5635879')",Japan,,Nishitokyo,,202-0004,,
+"izumigaoka,-utsunomiya, tochigi, japan","('36.56583', '139.88361')",Japan,Tochigi,,,,,Tochigi
+"ukita,-miyazaki-shi, miyazaki-ken, japan","('31.9278177', '131.3714639')",Japan,Miyazaki Prefecture,Miyazaki,,880-8505,,Miyazaki
+"kasuya,-setagaya, tokyo, japan","('35.6647689', '139.6108434')",Japan,,Setagaya,,158-0063,,
+"kita-19 jonishi, hokkaido prefecture, japan","('43.09768', '141.3421654')",Japan,Hokkaido Prefecture,Sapporo,,001-0031,5 Nishi5chome tarukawa dori,Hokkaido
+"mariko,-shizuoka, japan","('34.9536379', '138.3807678')",Japan,Shizuoka Prefecture,Shizuoka,,422-8550,Mariko-Ikeda-Line,Shizuoka
+"sasakubo,-saitama, japan","('35.9183715', '139.7186279')",Japan,Saitama Prefecture,Saitama,,339-0028,,Saitama
+"hayashisakicho,-akashi, hyogo prefecture, japan","('34.6498111', '134.968053')",Japan,Hyogo Prefecture,Akashi,,673-0033,,Hyogo
+"tamashima-agasaki, kurashiki, okayama, japan","('34.544542', '133.6586068')",Japan,Okayama Prefecture,Kurashiki,,710-0253,,Okayama
+"tenjin,-konosu, saitama, japan","('36.06868', '139.51684')",Japan,Saitama,,,,,Saitama
+"yono,-osaka prefecture, japan","('34.9221592', '135.4968643')",Japan,Osaka Prefecture,,Toyono County,563-0257,,Osaka
+"chuo,-soja, okayama, japan","('34.6716616', '133.7490928')",Japan,Okayama Prefecture,Soja,,719-1155,,Okayama
+"suidōchō,-kumamoto-ken, japan","('32.8029038', '130.7131313')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,National Highway Route 3,Kumamoto
+"shogen,-miyagi, japan","('38.3384026', '140.8677154')",Japan,Miyagi Prefecture,Sendai,,981-3134,,Miyagi
+"nonakacho,-hitachiomiya, ibaraki, japan","('36.56447', '140.40269')",Japan,Ibaraki,,,,,Ibaraki
+"nakagawacho-kuroji, anan, tokushima, japan","('33.9625829', '134.6394253')",Japan,Tokushima Prefecture,Anan,,779-1115,,Tokushima
+"miyayama,-kanagawa, japan","('35.3822546', '139.379689')",Japan,Kanagawa Prefecture,,Koza County,253-0111,Ken-O Expressway,Kanagawa
+"kagatsume,-ishikawa prefecture, japan","('36.6691547', '136.7321008')",Japan,Ishikawa Prefecture,,Kahoku County,929-0319,,Ishikawa
+"mabicho-yata, kurashiki, okayama, japan","('34.626403', '133.688409')",Japan,Okayama Prefecture,Kurashiki,,710-1312,,Okayama
+"shimotsucho-kuroda, kainan, wakayama, japan","('34.15', '135.2')",Japan,Wakayama,,,,,Wakayama
+"uekimachi-iwano, kumamoto-ken, japan","('32.9115293', '130.7032348')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,,Kumamoto
+"shimomakuwa,-motosu-shi, gifu-ken, japan","('35.4380849', '136.659666')",Japan,Gifu Prefecture,Motosu,,501-0466,,Gifu
+"kiirecho,-kagoshima, kagoshima, japan","('31.3701024', '130.5418877')",Japan,Kagoshima Prefecture,Kagoshima,,892-8677,,Kagoshima
+"yagicho,-kashihara, nara, japan","('34.5095736', '135.7914582')",Japan,Nara Prefecture,Kashihara,,634-8586,,Nara
+"ueda,-morioka, iwate, japan","('39.7151516', '141.14784')",Japan,Iwate Prefecture,Morioka,,020-0015,Morioka Bypass,Iwate
+"kaneicho,-osaka prefecture, japan","('34.68631', '135.51968')",Japan,Ōsaka,,,,,Osaka
+"saginumadai,-narashino, chiba, japan","('35.6808955', '140.037321')",Japan,Chiba Prefecture,Narashino,,275-0012,,Chiba
+"tatsunocho-tominaga, tatsuno, hyogo prefecture, japan","('34.8584412', '134.5465785')",Japan,Hyogo Prefecture,Tatsuno,,679-4167,,Hyogo
+"kutsunoya,-shizuoka, japan","('34.97695', '138.38306')",Japan,Shizuoka,,,,,Shizuoka
+"awasa,-chikuma, nagano, japan","('36.5394289', '138.1225367')",Japan,Nagano Prefecture,,,387-0006,,Nagano
+"kotobukicho,-suita, osaka prefecture, japan","('34.7533218', '135.5117465')",Japan,Osaka Prefecture,Suita,,564-0041,フラワーロード,Osaka
+"shikamaku-hosoe, himeji, hyogo prefecture, japan","('34.7891569', '134.6607734')",Japan,Hyogo Prefecture,Himeji,,672-8064,,Hyogo
+"togencho,-seto, aichi, japan","('35.23333', '137.1')",Japan,Aichi,,,,,Aichi
+"imazawacho,-gifu, gifu, japan","('35.42291', '136.76039')",Japan,Gifu,,,,,Gifu
+"ezura,-kuki, saitama, japan","('36.06739', '139.67498')",Japan,Saitama,,,,,Saitama
+"iwakiri,-miyagi-ken, japan","('38.3008721', '140.9552302')",Japan,Miyagi Prefecture,Sendai,,983-0828,利府岩切停車場線,Miyagi
+"atsubetsuchuo-2 jo, hokkaido prefecture, japan","('43.06451', '141.3466')",Japan,Hokkaidō,,,,,Hokkaido
+"shinonoifusetakada,-nagano, nagano prefecture, japan","('36.65139', '138.18111')",Japan,Nagano,,,,,Nagano
+"higashioume,-oume, tokyo, japan","('35.7899044', '139.2725011')",Japan,,Ome,,198-8701,1.青梅方面,
+"kogakuramachi,-nagasaki, nagasaki, japan","('32.7025847', '129.8483616')",Japan,Nagasaki Prefecture,Nagasaki,,850-8685,,Nagasaki
+"shimoochiai,-shinjuku, tokyo, japan","('35.7157663', '139.6954383')",Japan,,Shinjuku,,161-0032,上落中通り,
+"fukumuro,-miyagi-ken, japan","('38.2751303', '140.9756149')",Japan,Miyagi Prefecture,Sendai,,983-0005,,Miyagi
+"fuchumachi-sasakura, toyama, toyama, japan","('36.6630818', '137.1568056')",Japan,Toyama Prefecture,Toyama,,939-2798,,Toyama
+"hokota,-hokota, ibaraki, japan","('36.1523844', '140.5203536')",Japan,Ibaraki Prefecture,Hokota,,311-1516,Ibaraki-Kashima Line,Ibaraki
+"iseharachō,-kawagoe-shi, saitama-ken, japan","('35.91149', '139.47924')",Japan,Saitama,,,,,Saitama
+"misato,-misato-shi, saitama-ken, japan","('35.8449128', '139.8867662')",Japan,Saitama Prefecture,Misato,,341-0024,Soka-Nagareyama Line,Saitama
+"nakahetsugi,-oita, oita prefecture, japan","('33.14968', '131.65938')",Japan,Ōita,,,,,Oita
+"tokiwa,-saitama, japan","('35.8650913', '139.6521842')",Japan,Saitama Prefecture,Saitama,,330-0061,,Saitama
+"oka,-fujiidera, osaka prefecture, japan","('34.5711503', '135.5944649')",Japan,Osaka Prefecture,Fujiidera,,583-0021,ハートフル91商店街,Osaka
+"miho,-shizuoka, japan","('34.9947415', '138.5238018')",Japan,Shizuoka Prefecture,Shizuoka,,424-8701,,Shizuoka
+"wakamatsudai,-osaka prefecture, japan","('34.4906775', '135.509509')",Japan,Osaka Prefecture,Sakai,,540-8570,,Osaka
+"honmachi,-neyagawa, osaka prefecture, japan","('34.7654437', '135.6273687')",Japan,Osaka Prefecture,Neyagawa,,572-0848,,Osaka
+"minaminakaburi,-hirakata, osaka prefecture, japan","('34.792937', '135.632763')",Japan,Osaka Prefecture,Hirakata,,５７３-００８７,,Osaka
+"hassamu-2 jo, hokkaido prefecture, japan","('43.06451', '141.3466')",Japan,Hokkaidō,,,,,Hokkaido
+"onomachi,-ichikawa, chiba, japan","('35.71865', '139.93294')",Japan,Chiba,,Ichikawa,,,Chiba
+"mikuninocho-gochaku, himeji, hyogo prefecture, japan","('34.8160733', '134.7377929')",Japan,Hyogo Prefecture,Himeji,,671-0255,,Hyogo
+"tenjin,-kameyama-shi, mie-ken, japan","('34.86866', '136.39345')",Japan,Mie,,,,,Mie
+"najioshinmachi,-nishinomiya, hyogo prefecture, japan","('34.827451', '135.3135834')",Japan,Hyogo Prefecture,Nishinomiya,,662-8567,,Hyogo
+"nakashima,-takasago, hyogo prefecture, japan","('34.74834', '134.80383')",Japan,Hyōgo,,,,,Hyogo
+"nagaura-ekimae, sodegaura-shi, chiba-ken, japan","('35.41642', '140.01771')",Japan,Chiba,,Sodegaura-shi,,,Chiba
+"higashinaniwacho,-amagasaki, hyogo prefecture, japan","('34.71667', '135.41667')",Japan,Hyōgo,,,,,Hyogo
+"hasumachi,-toyama, toyama, japan","('36.7425979', '137.2275798')",Japan,Toyama Prefecture,Toyama,,930-0814,富山港線,Toyama
+"shimorenjaku,-mitaka, tokyo, japan","('35.6964799', '139.565496')",Japan,,Mitaka,,181-0013,,
+"shinyasumatsu,-izumisano, osaka prefecture, japan","('34.3967285', '135.3069489')",Japan,Osaka Prefecture,Izumisano,,598-0016,,Osaka
+"shikawatashi,-yotsukaido, chiba, japan","('35.65', '140.16667')",Japan,Chiba,,,,,Chiba
+"minamishodokorocho,-takatsuki, osaka prefecture, japan","('34.8339987', '135.6142795')",Japan,Osaka Prefecture,Takatsuki,,569-0822,,Osaka
+"toyoshima,-fukui, fukui, japan","('36.0569858', '136.2241468')",Japan,Fukui Prefecture,Fukui,,910-0006,,Fukui
+"yagamimachi,-nagasaki, nagasaki, japan","('32.7763768', '129.9513771')",Japan,Nagasaki Prefecture,Nagasaki,,850-8685,,Nagasaki
+"miyazaki,-noda, chiba, japan","('35.952155', '139.873927')",Japan,Chiba Prefecture,Noda,,278-0005,,Chiba
+"keihanhondori,-moriguchi, osaka prefecture, japan","('34.7329909', '135.55741')",Japan,Osaka Prefecture,Moriguchi,,570-0028,,Osaka
+"chuocho,-kawanishi, hyogo prefecture, japan","('34.8306536', '135.4155887')",Japan,Hyogo Prefecture,Kawanishi,,666-0033,,Hyogo
+"godo,-kawaguchi, saitama, japan","('35.80521', '139.71072')",Japan,Saitama,,,,,Saitama
+"nakajimacho,-hyogo prefecture, japan","('34.7407838', '135.3649059')",Japan,Hyogo Prefecture,Nishinomiya,,662-8567,,Hyogo
+"sakuracho,-hadano, kanagawa, japan","('35.37111', '139.22361')",Japan,Kanagawa,,,,,Kanagawa
+"kitamachi,-hyogo prefecture, japan","('34.7234006', '135.2238035')",Japan,Hyogo Prefecture,Kobe,,657-0066,,Hyogo
+"fushikihigashiichinomiya,-takaoka, toyama, japan","('36.75', '137.01667')",Japan,Toyama,,,,,Toyama
+"nakamachi,-kiryu, gunma, japan","('36.4', '139.33333')",Japan,Gunma,,,,,Gunma
+"ebara-shinden, sakura, chiba, japan","('35.71667', '140.23333')",Japan,Chiba,,,,,Chiba
+"noguchicho-yoshino, kakogawa, hyogo prefecture, japan","('34.7551276', '134.8441268')",Japan,Hyogo Prefecture,Kakogawa,,675-0017,,Hyogo
+"niikura,-wakō-shi, saitama-ken, japan","('35.8009981', '139.6195013')",Japan,Saitama Prefecture,Wako,,351-0115,Tokyo Gaikan Expressway,Saitama
+"higashihonjo,-hyogo prefecture, japan","('35.0847518', '135.2982636')",Japan,Hyogo Prefecture,Tamba-Sasayama,,,,Hyogo
+"otecho,-marugame, kagawa, japan","('34.2880899', '133.7967128')",Japan,Kagawa Prefecture,Marugame,,763-0034,,Kagawa
+"ikaruga,-hyogo prefecture, japan","('34.83475', '134.57803')",Japan,Hyōgo,,,,,Hyogo
+"takamatsucho,-takamatsu, kagawa, japan","('34.3303413', '134.1183614')",Japan,Kagawa Prefecture,Takamatsu,,761-0104,,Kagawa
+"yachimata,-yachimata-shi, chiba-ken, japan","('35.6630784', '140.3177463')",Japan,Chiba Prefecture,Yachimata,,289-1115,215,Chiba
+"kirigasaku,-noda, chiba, japan","('36.055306', '139.810225')",Japan,Chiba Prefecture,Noda,,270-0202,,Chiba
+"yaho,-kunitachi, tokyo, japan","('35.6814454', '139.4465862')",Japan,,Kunitachi,,186-0003,146支線,
+"tainohama,-tokushima, japan","('33.772697', '134.583844')",Japan,Tokushima Prefecture,,Kaifu County,779-2109,日和佐小野線,Tokushima
+"kamimizo,-kanagawa, japan","('35.5577447', '139.3631816')",Japan,Kanagawa Prefecture,Sagamihara,,252-0243,上溝ふれあい橋,Kanagawa
+"tokorozawa,-saitama, japan","('35.7994271', '139.4687478')",Japan,Saitama Prefecture,Tokorozawa,,,,Saitama
+"nishine,-sagae, yamagata, japan","('38.3833921', '140.2911664')",Japan,Yamagata Prefecture,Sagae,,990-0523,Sagae Bypass,Yamagata
+"honcho,-hadano, kanagawa, japan","('35.3730494', '139.2240394')",Japan,Kanagawa Prefecture,Hadano,,257-8799,秦野停車場線,Kanagawa
+"yamaguchi,-yamaguchi, japan","('34.1781317', '131.4737077')",Japan,Yamaguchi Prefecture,Yamaguchi,,,,Yamaguchi
+"maegata,-okayama, japan","('34.5986811', '133.8288079')",Japan,Okayama Prefecture,,Tsukubo County,701-0303,,Okayama
+"nagao,-fukuoka, japan","('33.5558163', '130.3860475')",Japan,Fukuoka Prefecture,Fukuoka,,810-0032,,Fukuoka
+"fujishirodai,-suita, osaka prefecture, japan","('34.8148639', '135.5160959')",Japan,Osaka Prefecture,Suita,,565-0825,,Osaka
+"isogo,-kanagawa, japan","('35.391369', '139.6119304')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"mitsuhashimachi-imakoga, yanagawa, fukuoka, japan","('33.16667', '130.4')",Japan,Fukuoka,,,,,Fukuoka
+"chofukamenoko,-shimonoseki, yamaguchi, japan","('33.95', '130.95')",Japan,Yamaguchi,,,,,Yamaguchi
+"umedacho,-tsushima, aichi, japan","('35.16667', '136.71667')",Japan,Aichi,,Tsushima-shi,,,Aichi
+"okamoto,-kamakura-shi, kanagawa-ken, japan","('35.3471581', '139.5192719')",Japan,Kanagawa Prefecture,Kamakura,,247-0073,,Kanagawa
+"koihonmachi,-hiroshima prefecture, japan","('34.3975108', '132.429686')",Japan,Hiroshima Prefecture,Hiroshima,,733-0821,,Hiroshima
+"hiranocho-shigeta, hyogo prefecture, japan","('34.7211309', '134.9995387')",Japan,Hyogo Prefecture,Kobe,,651-2273,,Hyogo
+"senbamachi,-kawagoe, saitama, japan","('35.90861', '139.48528')",Japan,Saitama,,,,,Saitama
+"hatsushimachohama,-arida, wakayama, japan","('34.06154', '135.33422')",Japan,Wakayama,,Arida-gun,,,Wakayama
+"miwa,-sanda, hyogo prefecture, japan","('34.9001488', '135.2375726')",Japan,Hyogo Prefecture,,,669-1528,,Hyogo
+"kusatsu,-kusatsu, shiga, japan","('35.0179088', '135.96046')",Japan,Shiga Prefecture,Kusatsu,,525-0032,,Shiga
+"mawatarimachi,-isahaya, nagasaki, japan","('32.84111', '130.04306')",Japan,Nagasaki,,Isahaya-shi,,,Nagasaki
+"chuocho,-shimada, shizuoka, japan","('34.81667', '138.18333')",Japan,Shizuoka,,,,,Shizuoka
+"higashikojiya,-ota, tokyo, japan","('35.5554583', '139.7410069')",Japan,,Ota,,,,
+"katsuse,-ebina, kanagawa, japan","('35.4465071', '139.3980652')",Japan,Kanagawa Prefecture,Ebina,,,,Kanagawa
+"kanaikemachi,-oita, oita prefecture, japan","('33.23806', '131.6125')",Japan,Ōita,,,,,Oita
+"kitaokawara,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"koshien-ichibancho, nishinomiya, hyogo prefecture, japan","('34.7317148', '135.3745086')",Japan,Hyogo Prefecture,Nishinomiya,,662-8567,,Hyogo
+"hiraiso,-hyogo prefecture, japan","('34.6273265', '135.0575833')",Japan,Hyogo Prefecture,Kobe,,655-0027,,Hyogo
+"abikohigashi,-osaka prefecture, japan","('34.5958051', '135.5113626')",Japan,Osaka Prefecture,Osaka,,558-0022,,Osaka
+"tarodai,-niigata, japan","('37.98333', '139.21667')",Japan,Niigata,,,,,Niigata
+"jichumachi,-kanazawa, ishikawa, japan","('36.5969755', '136.6018662')",Japan,Ishikawa Prefecture,Kanazawa,,920-8203,,Ishikawa
+"takehanacho,-hashima, gifu, japan","('35.3074', '136.70161')",Japan,Gifu,,Hashima-shi,,,Gifu
+"uji,-uji, kyoto prefecture, japan","('34.8933744', '135.8059219')",Japan,Kyoto Prefecture,Uji,,611-0021,,Kyoto
+"nishinokyo-nakahocho, kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"takadai,-itami, hyogo prefecture, japan","('34.7939286', '135.4118808')",Japan,Hyogo Prefecture,Itami,,661-0024,,Hyogo
+"kotobukicho,-hofu, yamaguchi, japan","('34.05', '131.56667')",Japan,Yamaguchi,,,,,Yamaguchi
+"takayokosukamachi,-tokai, aichi, japan","('35.02676', '136.89846')",Japan,Aichi,,Tōkai-shi,,,Aichi
+"kunioka,-hyogo prefecture, japan","('34.7542858', '134.9166107')",Japan,Hyogo Prefecture,,Kako County,675-1105,,Hyogo
+"seidōchō,-sakaiminato-shi, tottori-ken, japan","('35.5147247', '133.2323872')",Japan,Tottori Prefecture,Sakaiminato,,684-0053,,Tottori
+"namiyanagi,-hannō-shi, saitama-ken, japan","('35.85567', '139.32777')",Japan,Saitama,,Hannō,,,Saitama
+"kamitanadare,-kazo-shi, saitama-ken, japan","('36.1367', '139.61992')",Japan,Saitama,,,,,Saitama
+"hanaguri,-sōka-shi, saitama-ken, japan","('35.8336742', '139.7918253')",Japan,Saitama Prefecture,Soka,,340-0044,Soka Bypass,Saitama
+"shirahamacho,-himeji, hyogo prefecture, japan","('34.7833635', '134.7019345')",Japan,Hyogo Prefecture,Himeji,,672-8023,,Hyogo
+"shimizukōji,-miyagi-ken, japan","('38.2512871', '140.8818213')",Japan,Miyagi Prefecture,Sendai,,984-0075,,Miyagi
+"ishikawa,-mito, ibaraki, japan","('36.340265', '140.4905041')",Japan,Ibaraki Prefecture,Mito,,310-0841,,Ibaraki
+"osumidai,-isehara, kanagawa, japan","('35.387209', '139.274595')",Japan,Kanagawa Prefecture,Isehara,,257-0001,,Kanagawa
+"koshomachi,-himeji, hyogo prefecture, japan","('34.8352493', '134.6835755')",Japan,Hyogo Prefecture,Himeji,,670-0046,,Hyogo
+"aramachi,-moka, tochigi, japan","('36.4413306', '140.0143547')",Japan,Tochigi Prefecture,Mooka,,321-4361,真岡烏山線旧道,Tochigi
+"nishinouchicho,-kishiwada, osaka prefecture, japan","('34.466238', '135.3914409')",Japan,Osaka Prefecture,Kishiwada,,596-0046,,Osaka
+"nogaya,-machida, tokyo, japan","('35.5849083', '139.4898764')",Japan,,Machida,,142-0064,,
+"katahira,-kanagawa, japan","('35.598519', '139.48181')",Japan,Kanagawa Prefecture,Kawasaki,,215-0023,,Kanagawa
+"kanōchō,-toyota-shi, aichi-ken, japan","('35.087', '137.15')",Japan,Aichi,,Toyota-shi,,,Aichi
+"kitasayacho,-matsuyama, ehime, japan","('33.839402', '132.723636')",Japan,Ehime Prefecture,Matsuyama,,791-8031,,Ehime
+"yasugicho,-yasugi, shimane, japan","('35.4259913', '133.2470208')",Japan,Shimane Prefecture,Yasugi,,692-8686,,Shimane
+"kokawa,-kinokawa-shi, wakayama-ken, japan","('34.2707749', '135.4043711')",Japan,Wakayama Prefecture,Kinokawa,,649-6531,粉河寺線,Wakayama
+"mitsusemura-mitsuse, saga, saga prefecture, japan","('33.4427976', '130.2805639')",Japan,Saga Prefecture,Saga,,,,Saga
+"kumata,-osaka prefecture, japan","('34.6375014', '135.5383998')",Japan,Osaka Prefecture,Osaka,,544-0011,今里筋,Osaka
+"anshincho,-shizuoka prefecture, japan","('35.02522', '138.32542')",Japan,Shizuoka,,,,,Shizuoka
+"iwashita,-kumamoto, japan","('32.6524157', '130.8101998')",Japan,Kumamoto Prefecture,,Kamimashiki County,861-4601,,Kumamoto
+"narahashi,-higashiyamato, tokyo, japan","('35.76298', '139.44575')",Japan,Tōkyō,,,,,Tokyo
+"mibuhigashitakadacho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"nishikiomiyacho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"hijiyamahonmachi,-hiroshima, japan","('34.3829569', '132.4690599')",Japan,Hiroshima Prefecture,Hiroshima,,732-0816,,Hiroshima
+"izumicho,-kanagawa, japan","('35.4399639', '139.3665756')",Japan,Kanagawa Prefecture,Atsugi,,243-0013,,Kanagawa
+"kiyoharadai,-utsunomiya, tochigi, japan","('36.56583', '139.88361')",Japan,Tochigi,,,,,Tochigi
+"hyakurakuen,-nara, nara, japan","('34.702097', '135.7394874')",Japan,Nara Prefecture,Nara,,631-0074,,Nara
+"kōriyama,-miyagi-ken, japan","('38.2152544', '140.8996067')",Japan,Miyagi Prefecture,Sendai,,982-0003,,Miyagi
+"senzo,-itami, hyogo prefecture, japan","('34.7824996', '135.4057406')",Japan,Hyogo Prefecture,Itami,,664-0020,,Hyogo
+"nakano,-kanagawa, japan","('35.583885', '139.249382')",Japan,Kanagawa Prefecture,Sagamihara,,252-0176,,Kanagawa
+"miyamaedaira,-kanagawa, japan","('35.5849617', '139.5820388')",Japan,Kanagawa Prefecture,Kawasaki,,216-0006,旧大山街道,Kanagawa
+"midorigaoka,-izumi, osaka prefecture, japan","('34.4487194', '135.4574454')",Japan,Osaka Prefecture,Izumi,,594-1156,,Osaka
+"shinikecho,-minokamo, gifu, japan","('35.48199', '137.02166')",Japan,Gifu,,,,,Gifu
+"mukogawacho,-amagasaki, hyogo prefecture, japan","('34.7107872', '135.3866242')",Japan,Hyogo Prefecture,Amagasaki,,660-0085,甲子園尼崎線,Hyogo
+"honcho,-higashimurayama, tokyo, japan","('35.75459', '139.46852')",Japan,Tōkyō,,,,,Tokyo
+"yamasakichō,-ikoma-shi, nara-ken, japan","('34.6899116', '135.7063436')",Japan,Nara Prefecture,Ikoma,,630-0252,,Nara
+"honmokuosatocho,-kanagawa, japan","('35.41746', '139.33885')",Japan,Kanagawa,,,,,Kanagawa
+"tatemachi,-hachioji, tokyo, japan","('35.6330402', '139.2958469')",Japan,,Hachioji,,193-0944,,
+"ojicho,-chiba, japan","('35.5157883', '140.2567383')",Japan,Chiba Prefecture,Chiba,,267-0066,,Chiba
+"misasagishichonocho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"takaida,-kashiwara, osaka prefecture, japan","('34.5714172', '135.6384687')",Japan,Osaka Prefecture,Kashiwara,,582-0012,本堂高井田線,Osaka
+"shimoyanbemachi,-yamagata, yamagata, japan","('38.24907', '140.37272')",Japan,Yamagata,,Yamagata Shi,,,Yamagata
+"akebonocho,-hyogo prefecture, japan","('34.6706904', '134.9781303')",Japan,Hyogo Prefecture,Kobe,,673-0016,,Hyogo
+"kamojimacho-kamojima, yoshinogawa, tokushima, japan","('34.0718441', '134.3566029')",Japan,Tokushima Prefecture,Yoshinogawa,,776-0010,,Tokushima
+"fuchizaki,-kagawa-ken, japan","('34.4904299', '134.1852056')",Japan,Kagawa Prefecture,,Shozu County,761-4106,,Kagawa
+"minamiota,-kanagawa, japan","('35.4368194', '139.6131635')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,218,Kanagawa
+"furuichi,-hiroshima-ken, japan","('34.4577195', '132.4752085')",Japan,Hiroshima Prefecture,Hiroshima,,731-0121,広島豊平線,Hiroshima
+"makishi,-naha, okinawa, japan","('26.2171925', '127.6925906')",Japan,Okinawa Prefecture,Naha,,900-8585,Kokusai-dori Street,Okinawa
+"muyacho-tateiwa, naruto, tokushima, japan","('34.1711747', '134.6178818')",Japan,Tokushima Prefecture,Naruto,,772-0017,,Tokushima
+"mizuhashi-hatakera, toyama-shi, toyama-ken, japan","('36.7471236', '137.3048797')",Japan,Toyama Prefecture,Toyama,,939-0521,,Toyama
+"tomioka,-tomioka, gunma, japan","('36.25411', '138.89813')",Japan,Gunma,,,,,Gunma
+"inasamachi,-nagasaki, nagasaki, japan","('32.7561872', '129.8558866')",Japan,Nagasaki Prefecture,Nagasaki,,850-8685,,Nagasaki
+"fushihara,-kure, hiroshima, japan","('34.2538073', '132.576043')",Japan,Hiroshima Prefecture,Kure,,,,Hiroshima
+"kibi,-kosai, shizuoka, japan","('34.708102', '137.514118')",Japan,Shizuoka Prefecture,Kosai,,431-0422,,Shizuoka
+"haranomachi,-miyagi, japan","('38.2662062', '140.9110021')",Japan,Miyagi Prefecture,Sendai,,983-0047,原町停車場線,Miyagi
+"shiratoridai,-kanagawa, japan","('35.5363353', '139.5138439')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"kogaazumacho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"yagisawa,-nishitokyo, tokyo, japan","('35.7266214', '139.5498743')",Japan,,Nishitokyo,,202-0022,,
+"sakuragaoka,-kanagawa, japan","('35.450597', '139.4657715')",Japan,Kanagawa Prefecture,Yamato,,242-0022,滝山街道,Kanagawa
+"kodamachō-takazeki, honjō-shi, saitama-ken, japan","('36.19925', '139.14627')",Japan,Saitama,,,,,Saitama
+"kotobukicho,-kariya, aichi, japan","('34.98333', '136.98333')",Japan,Aichi,,,,,Aichi
+"babadori,-utsunomiya, tochigi, japan","('36.5622704', '139.8855633')",Japan,Tochigi Prefecture,Utsunomiya,,320-0803,,Tochigi
+"tsuchizakiminatokita,-akita, akita, japan","('39.71667', '140.11667')",Japan,Akita,,,,,Akita
+"jonanmachi,-kurume, fukuoka, japan","('33.3209429', '130.5065878')",Japan,Fukuoka Prefecture,Kurume,,830-0023,,Fukuoka
+"fukuta,-saga, japan","('33.2282058', '130.3350806')",Japan,Saga Prefecture,Saga,,840-2205,,Saga
+"chuo,-kisarazu, chiba, japan","('35.3835922', '139.9221684')",Japan,Chiba Prefecture,Kisarazu,,292-8799,,Chiba
+"eirakudai,-kashiwa, chiba, japan","('35.85444', '139.96889')",Japan,Chiba,,,,,Chiba
+"irifunecho,-tochigi, tochigi, japan","('36.38333', '139.73333')",Japan,Tochigi,,,,,Tochigi
+"mamedocho,-kanagawa, japan","('35.41746', '139.33885')",Japan,Kanagawa,,,,,Kanagawa
+"shōnaichō-kakiharu, yufu-shi, ōita-ken, japan","('33.170057', '131.41876')",Japan,Oita Prefecture,Yufu,,879-5498,,Oita
+"chigasakichuo,-kanagawa, japan","('35.3524051', '139.395552')",Japan,Kanagawa Prefecture,Chigasaki,,253-0113,Chigasakichuo-Dori,Kanagawa
+"gion,-miyazaki, miyazaki, japan","('31.9354811', '131.4102815')",Japan,Miyazaki Prefecture,Miyazaki,,880-8505,,Miyazaki
+"masago,-chiba, japan","('35.6443911', '140.0628979')",Japan,Chiba Prefecture,Chiba,,261-0011,,Chiba
+"nishihabumachi,-matsuyama, ehime, japan","('33.813675', '132.701207')",Japan,Ehime Prefecture,Matsuyama,,791-3131,,Ehime
+"nagasaka,-yokosuka, kanagawa, japan","('35.242481', '139.636767')",Japan,Kanagawa Prefecture,Yokosuka,,238-8550,,Kanagawa
+"kanbara-shinden, shizuoka-ken, japan","('34.90542', '138.81925')",Japan,Shizuoka,,,,,Shizuoka
+"shirakawadai,-hyogo prefecture, japan","('34.693289', '135.106761')",Japan,Hyogo Prefecture,Kobe,,654-0103,,Hyogo
+"honkatata,-otsu, shiga, japan","('35.00444', '135.86833')",Japan,Shiga-ken,,,,,Shiga
+"shinkuracho,-tokushima, tokushima, japan","('34.0702124', '134.5599527')",Japan,Tokushima Prefecture,Tokushima,,770-8571,,Tokushima
+"tsudamachi,-nogata, fukuoka, japan","('33.73996', '130.72282')",Japan,Fukuoka,,,,,Fukuoka
+"kosakamachi,-kanazawa, ishikawa, japan","('36.5904466', '136.6782255')",Japan,Ishikawa Prefecture,Kanazawa,,920-0818,,Ishikawa
+"nemoto,-matsudo, chiba, japan","('35.7870793', '139.8993534')",Japan,Chiba Prefecture,Matsudo,,271-0077,流山街道,Chiba
+"kanamori,-machida-shi, tōkyō-to, japan","('35.5282161', '139.4674085')",Japan,,Machida,,194-0015,,
+"anesaki,-ichihara, chiba, japan","('35.4298845', '140.0466708')",Japan,Chiba Prefecture,Ichihara,,290-0256,Tateyama Expressway,Chiba
+"akanabehishino,-gifu, gifu, japan","('35.42291', '136.76039')",Japan,Gifu,,,,,Gifu
+"fukuokacho,-takamatsu, kagawa, japan","('34.3442704', '134.0625291')",Japan,Kagawa Prefecture,Takamatsu,,760-0066,Seto Ohashi Road,Kagawa
+"ōnaka,-yamatotakada-shi, nara-ken, japan","('34.5134569', '135.7366299')",Japan,Nara Prefecture,Yamatotakada,,635-0015,,Nara
+"fukumitsuhigashi,-gifu, gifu, japan","('35.42291', '136.76039')",Japan,Gifu,,,,,Gifu
+"yoshioka,-miyagi, japan","('38.4430032', '140.885175')",Japan,Miyagi Prefecture,,Kurokawa County,981-3621,,Miyagi
+"wanikoen,-hirakata, osaka prefecture, japan","('34.818298', '135.706914')",Japan,Osaka Prefecture,Hirakata,,573-0152,,Osaka
+"samugawacho,-chiba, japan","('35.5966929', '140.1209364')",Japan,Chiba Prefecture,Chiba,,260-8667,,Chiba
+"higashikoshigaya,-koshigaya, saitama, japan","('35.88333', '139.78333')",Japan,Saitama,,,,,Saitama
+"kubo,-kimitsu-shi, chiba-ken, japan","('35.3296543', '139.9023112')",Japan,Chiba Prefecture,Kimitsu,,299-1152,,Chiba
+"tsurugamine,-kanagawa, japan","('35.4749432', '139.5493487')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,水道道,Kanagawa
+"hiraokacho-shinzaike, kakogawa, hyogo prefecture, japan","('34.7478425', '134.877074')",Japan,Hyogo Prefecture,Kakogawa,,675-0195,,Hyogo
+"uchimodori,-fujisawa, kanagawa, japan","('35.391157', '139.416991')",Japan,Kanagawa Prefecture,Fujisawa,,252-0882,,Kanagawa
+"shimoiino,-futtsu, chiba, japan","('35.3143892', '139.8595362')",Japan,Chiba Prefecture,Futtsu,,293-0006,,Chiba
+"mihocho,-kanagawa, japan","('35.5045807', '139.5178098')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"hirayanagimachi,-tochigi, tochigi, japan","('36.38333', '139.73333')",Japan,Tochigi,,,,,Tochigi
+"shimoayashi,-miyagi-ken, japan","('38.2698837', '140.7691955')",Japan,Miyagi Prefecture,Sendai,,989-3127,,Miyagi
+"kokubo,-kofu, yamanashi, japan","('35.6303991', '138.5513882')",Japan,Yamanashi Prefecture,Kofu,Nakakoma County,409-3866,甲府市川三郷線,Yamanashi
+"kuma,-ehime, japan","('33.6566', '132.90234')",Japan,Ehime,,,,,Ehime
+"nekozane,-urayasu, chiba, japan","('35.6608375', '139.9012946')",Japan,Chiba Prefecture,Urayasu,,279-0002,Yanagi-dori,Chiba
+"horigane,-sayama-shi, saitama-ken, japan","('35.86989', '139.4212575')",Japan,Saitama Prefecture,Sayama,,350-1334,Tokorozawa-Horigane-Sayama Line,Saitama
+"naitōmachi,-shinjuku-ku, tōkyō-to, japan","('35.6856663', '139.7117937')",Japan,,Shinjuku,,160-0014,,
+"moriyama,-moriyama, shiga, japan","('35.0513649', '135.9958308')",Japan,Shiga Prefecture,Moriyama,,524-0021,,Shiga
+"fujimi,-kofu, yamanashi, japan","('35.674177', '138.54679')",Japan,Yamanashi Prefecture,Kofu,,400-0035,,Yamanashi
+"yawata,-ichihara, chiba, japan","('35.51667', '140.08333')",Japan,Chiba,,,,,Chiba
+"nakamura-ku,-nagoya-shi, aichi-ken, japan","('35.169306', '136.8661432')",Japan,Aichi Prefecture,Nagoya,,,,Aichi
+"satte,-satte, saitama, japan","('36.0778827', '139.7254086')",Japan,Saitama Prefecture,Satte,,,,Saitama
+"takamatsu,-kagawa, japan","('34.3425592', '134.0465338')",Japan,Kagawa Prefecture,Takamatsu,,,,Kagawa
+"tsuruga,-nagano, nagano, japan","('36.6507455', '138.1945597')",Japan,Nagano Prefecture,,,380-8512,,Nagano
+"kyoto-prefecture, japan","('35.242552', '135.454601')",Japan,Kyoto Prefecture,,,,,Kyoto
+"ominecho-higashibun, mine, yamaguchi, japan","('34.170725', '131.1988765')",Japan,Yamaguchi Prefecture,Mine,,,,Yamaguchi
+"takayanagi,-fujieda-shi, shizuoka-ken, japan","('34.8411305', '138.2556626')",Japan,Shizuoka Prefecture,Fujieda,,426-0034,藤枝大井川線,Shizuoka
+"honchō,-fussa-shi, tōkyō-to, japan","('34.8411305', '138.2556626')",Japan,Shizuoka Prefecture,Fujieda,,426-0034,藤枝大井川線,Shizuoka
+"secunda,-gert sibande dm, south africa","('35.7400338', '139.3282328')",Japan,,Fussa,,197-0022,,
+"umaki,-hiroshima-ken, japan","('34.4325089', '132.5304431')",Japan,Hiroshima Prefecture,Hiroshima,,732-0029,Hiroshima Expressway Route 1,Hiroshima
+"shimokoma,-kyoto prefecture, japan","('34.7802201', '135.7885572')",Japan,Kyoto Prefecture,,Soraku County,619-0246,八幡木津線,Kyoto
+"ishimaru,-fukuoka, japan","('33.8036674', '130.59798')",Japan,Fukuoka Prefecture,Munakata,,811-4163,,Fukuoka
+"kitakuroda,-ehime, japan","('33.6258', '132.85471')",Japan,Ehime,,,,,Ehime
+"horinan,-kurashiki, okayama, japan","('34.5736151', '133.7581537')",Japan,Okayama Prefecture,Kurashiki,,710-0841,,Okayama
+"nanakita,-miyagi-ken, japan","('38.3403887', '140.883268')",Japan,Miyagi Prefecture,Sendai,,981-3132,,Miyagi
+"soga,-chiba, japan","('35.5813725', '140.1311573')",Japan,Chiba Prefecture,Chiba,,260-0816,駅前ロータリー,Chiba
+"ōtsugaoka,-kashiwa-shi, chiba-ken, japan","('35.8406975', '140.0017518')",Japan,Chiba Prefecture,Kashiwa,,277-0921,,Chiba
+"koyo,-aichi, japan","('35.143378', '136.9282662')",Japan,Aichi Prefecture,Nagoya,,466-0042,Yaguma Dori Avenue,Aichi
+"asahimachi,-uto, kumamoto, japan","('32.6852639', '130.665682')",Japan,Kumamoto Prefecture,Uto,,,,Kumamoto
+"iharacho,-shizuoka, japan","('34.97695', '138.38306')",Japan,Shizuoka,,,,,Shizuoka
+"shōnandai,-fujisawa-shi, kanagawa-ken, japan","('35.3963301', '139.46657')",Japan,Kanagawa Prefecture,Fujisawa,,252-0804,湘南台大神線,Kanagawa
+"musota,-wakayama, wakayama, japan","('34.26242', '135.2072124')",Japan,Wakayama Prefecture,Wakayama,,640-8511,粉河加太線,Wakayama
+"hamadera-funaochonishi, osaka prefecture, japan","('34.68631', '135.51968')",Japan,Ōsaka,,,,,Osaka
+"gakuendai,-saitama-ken, japan","('36.0288387', '139.7148234')",Japan,Saitama Prefecture,,Minami-Saitama County,345-8501,,Saitama
+"yonagusuku,-okinawa, japan","('26.2197549', '127.7628851')",Japan,Okinawa Prefecture,,Nakagami,903-0104,,Okinawa
+"sugo,-takizawa, iwate, japan","('39.7836465', '141.1488576')",Japan,Iwate Prefecture,Takizawa,,020-0611,盛岡環状線,Iwate
+"miyaharacho,-saitama, japan","('35.9376376', '139.6119417')",Japan,Saitama Prefecture,Saitama,,331-0812,,Saitama
+"waifu,-kikuchi, kumamoto, japan","('32.9837831', '130.8101749')",Japan,Kumamoto Prefecture,Kikuchi,,,,Kumamoto
+"kamiokimachi,-maebashi, gunma, japan","('36.39111', '139.06083')",Japan,Gunma,,,,,Gunma
+"kamoike,-kagoshima, kagoshima, japan","('31.5651706', '130.5521449')",Japan,Kagoshima Prefecture,Kagoshima,,892-8677,,Kagoshima
+"mikura,-saitama, japan","('35.9041684', '139.6694845')",Japan,Saitama Prefecture,Saitama,,337-0033,,Saitama
+"barajima,-akita, akita, japan","('39.69649', '140.10254')",Japan,Akita,,,,,Akita
+"minamigoyō,-hyōgo-ken, japan","('34.7202995', '135.139019')",Japan,Hyogo Prefecture,Kobe,,651-1112,,Hyogo
+"izumicho,-oyabe, toyama prefecture, japan","('36.66667', '136.85')",Japan,Toyama,,Oyabe Shi,,,Toyama
+"yahara,-kasukabe-shi, saitama-ken, japan","('35.9827', '139.77574')",Japan,Saitama,,Kasukabe Shi,,,Saitama
+"imamiyacho,-kanuma, tochigi, japan","('36.55', '139.73333')",Japan,Tochigi,,,,,Tochigi
+"omuro,-kashiwa, chiba, japan","('35.85444', '139.96889')",Japan,Chiba,,,,,Chiba
+"mizumotokoen,-katsushika, tokyo, japan","('35.75324', '139.85567')",Japan,Tōkyō,,Katsushika,,,Tokyo
+"tanochoko,-miyazaki, miyazaki, japan","('32.19807', '131.29763')",Japan,Miyazaki,,,,,Miyazaki
+"kaminokidori,-hyogo prefecture, japan","('34.7138456', '135.230568')",Japan,Hyogo Prefecture,Kobe,,657-0066,,Hyogo
+"hosoya,-utsunomiya, tochigi, japan","('36.5887797', '139.8552373')",Japan,Tochigi Prefecture,Utsunomiya,,320-0074,Utsunomiya Ring Road,Tochigi
+"koga,-fukuoka prefecture, japan","('33.728578', '130.4701731')",Japan,Fukuoka Prefecture,Koga,,811-3114,,Fukuoka
+"omachi,-hyogo prefecture, japan","('34.7575595', '134.3862677')",Japan,Hyogo Prefecture,Ako,,678-0239,,Hyogo
+"tomihisacho,-fukuoka, japan","('33.60639', '130.41806')",Japan,Fukuoka,,,,,Fukuoka
+"asahicho,-fujisawa, kanagawa, japan","('35.3403253', '139.491911')",Japan,Kanagawa Prefecture,Fujisawa,,251-8601,,Kanagawa
+"asahigaokacho,-ashiya, hyogo prefecture, japan","('34.7466288', '135.3061071')",Japan,Hyogo Prefecture,Ashiya,,659-8501,,Hyogo
+"nishitoriishi,-takaishi, osaka prefecture, japan","('34.5239299', '135.4487485')",Japan,Osaka Prefecture,Takaishi,,593-8326,,Osaka
+"shirone,-niigata, japan","('37.7711984', '139.0265199')",Japan,Niigata Prefecture,Niigata,,950-1292,Shirone Bypass,Niigata
+"nakacho,-atsugi, kanagawa, japan","('35.43889', '139.35972')",Japan,Kanagawa,,,,,Kanagawa
+"hisainomuracho,-tsu, mie, japan","('34.73028', '136.50861')",Japan,Mie,,,,,Mie
+"nishisanjocho,-omura, nagasaki, japan","('32.92139', '129.95389')",Japan,Nagasaki,,,,,Nagasaki
+"miyashitamachi,-kawagoe, saitama, japan","('35.90861', '139.48528')",Japan,Saitama,,,,,Saitama
+"honcho,-kuki, saitama, japan","('36.06739', '139.67498')",Japan,Saitama,,,,,Saitama
+"yokose,-oita, oita prefecture, japan","('33.23806', '131.6125')",Japan,Ōita,,,,,Oita
+"minatojima-nakamachi, hyogo prefecture, japan","('34.6689656', '135.2101149')",Japan,Hyogo Prefecture,Kobe,,650-0045,Portpia-Odori,Hyogo
+"nishizakicho,-itoman, okinawa, japan","('26.1391425', '127.6558167')",Japan,Okinawa Prefecture,Itoman,,901-0306,,Okinawa
+"inabucho,-inazawa, aichi, japan","('35.25', '136.78333')",Japan,Aichi,,,,,Aichi
+"tanbaichicho,-tenri, nara, japan","('34.594339', '135.8335984')",Japan,Nara Prefecture,Tenri,,632-8555,,Nara
+"shinmori,-osaka prefecture, japan","('34.7162123', '135.5512385')",Japan,Osaka Prefecture,Osaka,,535-0013,,Osaka
+"aboshiku-kaichi nakamachi, himeji, hyogo prefecture, japan","('34.81667', '134.7')",Japan,Hyōgo,,,,,Hyogo
+"nobacho,-kanagawa, japan","('35.41746', '139.33885')",Japan,Kanagawa,,,,,Kanagawa
+"kamedamidoricho,-niigata, japan","('37.52343', '138.91748')",Japan,Niigata,,,,,Niigata
+"heiwadai,-nagareyama-shi, chiba-ken, japan","('35.8508775', '139.9010892')",Japan,Chiba Prefecture,Nagareyama,,270-0153,3.4.1.1　野々下思井線,Chiba
+"kōri,-fujieda-shi, shizuoka-ken, japan","('34.91956', '138.23379')",Japan,Shizuoka,,Fujieda Shi,,,Shizuoka
+"karasumacho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"shimookamotocho,-utsunomiya, tochigi, japan","('36.56583', '139.88361')",Japan,Tochigi,,,,,Tochigi
+"shimokuwajimamachi,-utsunomiya, tochigi, japan","('36.56583', '139.88361')",Japan,Tochigi,,,,,Tochigi
+"muromachi,-sakaide, kagawa, japan","('34.3161804', '133.8613068')",Japan,Kagawa Prefecture,Sakaide,,,,Kagawa
+"noguchihara,-beppu, oita prefecture, japan","('33.2849608', '131.4869902')",Japan,Oita Prefecture,Beppu,,874-0828,,Oita
+"ishiyamadera,-otsu, shiga, japan","('34.967233', '135.9033881')",Japan,Shiga Prefecture,Otsu,,520-2134,National Route 422,Shiga
+"mikkabicho-mikkabi, shizuoka, japan","('34.8', '137.55')",Japan,Shizuoka,,,,,Shizuoka
+"mizuho,-shizuoka, japan","('34.942736', '138.368339')",Japan,Shizuoka Prefecture,Shizuoka,,422-8550,,Shizuoka
+"ōdono,-sakurai-shi, nara-ken, japan","('34.518655', '135.8467036')",Japan,Nara Prefecture,Sakurai,,633-8585,,Nara
+"yogi,-naha, okinawa, japan","('26.2025732', '127.694934')",Japan,Okinawa Prefecture,Naha,,900-8585,,Okinawa
+"amagasaki,-hyogo prefecture, japan","('34.7288995', '135.412989')",Japan,Hyogo Prefecture,Amagasaki,,,,Hyogo
+saitama,"('35.9754168', '139.4160114')",Japan,Saitama Prefecture,,,,,Saitama
+"tsushida,-morioka, iwate, japan","('39.70361', '141.1525')",Japan,Iwate,,,,,Iwate
+"minami-14 jonishi, hokkaido prefecture, japan","('43.046105', '141.3465614')",Japan,Hokkaido Prefecture,Sapporo,,064-0808,Kikusui asahiyamakoen dori,Hokkaido
+"hikimizu,-kumamoto, japan","('32.80589', '130.69181')",Japan,Kumamoto,,,,,Kumamoto
+"chayamachi-hayaoki, kurashiki, okayama, japan","('34.58333', '133.76667')",Japan,Okayama,,,,,Okayama
+"kohokudai,-abiko, chiba, japan","('35.866415', '140.07001')",Japan,Chiba Prefecture,Abiko,,270-1121,national route 356,Chiba
+"moriyama-ku,-nagoya-shi, aichi-ken, japan","('35.230347', '137.000766')",Japan,Aichi Prefecture,Nagoya,,,,Aichi
+"asodamachi,-matsuyama, ehime, japan","('33.823299', '132.763616')",Japan,Ehime Prefecture,Matsuyama,,790-0952,,Ehime
+"yamashitacho,-kagoshima, kagoshima, japan","('31.5959731', '130.556694')",Japan,Kagoshima Prefecture,Kagoshima,,892-8677,,Kagoshima
+"chidori,-ota, tokyo, japan","('35.5722005', '139.6888581')",Japan,,Ota,,146-0092,,
+"yamadakitamaechō,-miyagi-ken, japan","('38.44938', '140.92624')",Japan,Miyagi,,,,,Miyagi
+"hatori,-shizuoka, japan","('34.9838125', '138.3333631')",Japan,Shizuoka Prefecture,Shizuoka,,420-8602,Warashina-kaido,Shizuoka
+"arai,-miyagi-ken, japan","('38.2449236', '140.9485771')",Japan,Miyagi Prefecture,Sendai,,984-0032,宮城県道137号荒浜原町線,Miyagi
+"yawata,-ichikawa, chiba, japan","('35.7237135', '139.9270611')",Japan,Chiba Prefecture,Ichikawa,,272-8501,Chiba Highway,Chiba
+"asahi,-aioi, hyogo prefecture, japan","('34.8175993', '134.4727363')",Japan,Hyogo Prefecture,Aioi,,678-0055,相生停車場線,Hyogo
+"tsuiheiji,-ichihara, chiba, japan","('35.51667', '140.08333')",Japan,Chiba,,,,,Chiba
+"kamigayachō,-shizuoka-ken, japan","('35.02522', '138.32542')",Japan,Shizuoka,,,,,Shizuoka
+"hirohataku-seimondori, himeji, hyogo prefecture, japan","('34.7988408', '134.628997')",Japan,Hyogo Prefecture,Himeji,,671-1104,,Hyogo
+"kanazawa,-aomori, aomori, japan","('40.814142', '140.7300438')",Japan,Aomori Prefecture,Aomori,,038-0013,,Aomori
+"kuwamizuhonmachi,-kumamoto prefecture, japan","('32.7803299', '130.7439517')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,,Kumamoto
+"oji,-akashi, hyogo prefecture, japan","('34.6546974', '134.9816912')",Japan,Hyogo Prefecture,Akashi,,673-0028,National Highway Route 2,Hyogo
+"minato,-wakayama, wakayama, japan","('34.2156192', '135.1505741')",Japan,Wakayama Prefecture,Wakayama,,640-8511,,Wakayama
+"ishiharacho,-osaka prefecture, japan","('34.7452581', '135.5902924')",Japan,Osaka Prefecture,Kadoma,,571-0030,,Osaka
+"kyomachi-honcho, kumamoto, japan","('32.8173119', '130.701816')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,,Kumamoto
+"ōtagaya,-tsurugashima-shi, saitama-ken, japan","('35.9242943', '139.400089')",Japan,Saitama Prefecture,,,350-2223,,Saitama
+"kawajima,-saitama-ken, japan","('35.9924411', '139.4840808')",Japan,Saitama Prefecture,,Hiki County,364-0026,,Saitama
+"yagicho,-hachioji, tokyo, japan","('35.6611004', '139.3217211')",Japan,,Hachioji,,192-0051,,
+"minamiseya,-kanagawa, japan","('35.4527401', '139.4866938')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"hayashima,-okayama, japan","('34.6006287', '133.8284796')",Japan,Okayama Prefecture,,Tsukubo County,,,Okayama
+"kimachidōri,-miyagi-ken, japan","('38.2694435', '140.8639204')",Japan,Miyagi Prefecture,Sendai,,980-0801,,Miyagi
+"sengencho,-kanagawa, japan","('35.46345', '139.610398')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"imizu,-toyama, japan","('36.7304657', '137.0753818')",Japan,Toyama Prefecture,Imizu,,,,Toyama
+"nirenoki,-kumamoto, japan","('32.8545604', '130.7542319')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,,Kumamoto
+"shinoro-2 jo, hokkaido prefecture, japan","('43.0936737', '141.360964')",Japan,Hokkaido Prefecture,Sapporo,,065-0024,6 Higashi8chome shinoro dori,Hokkaido
+"urashi,-itoshima, fukuoka, japan","('33.54331', '130.14039')",Japan,Fukuoka,,,,,Fukuoka
+"mizumamachi-tamamitsu, kurume, fukuoka, japan","('33.31667', '130.51667')",Japan,Fukuoka,,,,,Fukuoka
+"takaokahigashi,-shizuoka, japan","('34.762107', '137.712901')",Japan,Shizuoka Prefecture,Hamamatsu,,433-8112,,Shizuoka
+"inoyamacho,-kanagawa, japan","('35.3551055', '139.572967')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"makiminato,-urasoe, okinawa, japan","('26.2675712', '127.7165526')",Japan,Okinawa Prefecture,Urasoe,,901-2501,,Okinawa
+"karuizawa,-kamagaya, chiba, japan","('35.77289', '139.99883')",Japan,Chiba,,Kamagaya-shi,,,Chiba
+"uruido,-ichihara, chiba, japan","('35.504204', '140.173643')",Japan,Chiba Prefecture,Ichihara,,290-0170,,Chiba
+"fujimicho,-niigata, japan","('37.52343', '138.91748')",Japan,Niigata,,,,,Niigata
+"tajimacho,-kanagawa, japan","('35.5164443', '139.710372')",Japan,Kanagawa Prefecture,Kawasaki,,210-0853,,Kanagawa
+"honda,-niiza-shi, saitama-ken, japan","('35.79345', '139.56559')",Japan,Saitama,,Niiza-shi,,,Saitama
+"ogawacho,-kodaira, tokyo, japan","('35.729178', '139.472827')",Japan,,Kodaira,,187-8701,,
+"kodatsuno,-kanazawa-shi, ishikawa-ken, japan","('36.5542568', '136.6717517')",Japan,Ishikawa Prefecture,Kanazawa,,920-0935,Kodatsuno-dori Avenue,Ishikawa
+"yaizu,-yaizu-shi, shizuoka-ken, japan","('34.8723182', '138.3181727')",Japan,Shizuoka Prefecture,Yaizu,,425-0027,Ekikita dori,Shizuoka
+"totsukacho,-kanagawa, japan","('35.391154', '139.5274512')",Japan,Kanagawa Prefecture,Yokohama,,231-0017,,Kanagawa
+"oji,-nara, japan","('34.5977271', '135.701922')",Japan,Nara Prefecture,,Kitakatsuragi County,636-0003,ouji station line,Nara
+"hikata,-kainan, wakayama prefecture, japan","('34.15', '135.2')",Japan,Wakayama,,,,,Wakayama
+"yokosuka,-shizuoka-ken, japan","('34.788834', '137.787366')",Japan,Shizuoka Prefecture,Hamamatsu,,434-8502,,Shizuoka
+"nisshincho,-kanagawa, japan","('35.5259814', '139.6939041')",Japan,Kanagawa Prefecture,Kawasaki,,210-0019,,Kanagawa
+"soharachuocho,-kakamigahara, gifu, japan","('35.41667', '136.86667')",Japan,Gifu,,,,,Gifu
+"amarubecho,-kameoka, kyoto prefecture, japan","('35.014646', '135.563595')",Japan,Kyoto Prefecture,Kameoka,,621-0804,,Kyoto
+"terada,-joyo, kyoto prefecture, japan","('34.8532549', '135.7720501')",Japan,Kyoto Prefecture,Joyo,,610-0121,内里城陽線,Kyoto
+"yamashina,-kanazawa, ishikawa, japan","('36.530101', '136.649375')",Japan,Ishikawa Prefecture,Kanazawa,,921-8151,,Ishikawa
+"innai,-funabashi, chiba, japan","('35.69306', '139.98333')",Japan,Chiba,,,,,Chiba
+"mai,-hannan, osaka prefecture, japan","('34.3441193', '135.2311643')",Japan,Osaka Prefecture,Hannan,,599-0204,,Osaka
+"usuki,-usuki, oita prefecture, japan","('33.1186021', '131.807899')",Japan,Oita Prefecture,Usuki,,875-8686,33,Oita
+"kera,-kochi, kochi prefecture, japan","('33.58589', '133.50709')",Japan,Kōchi,,Kōchi Shi,,,Kochi
+"chishirodaikita,-chiba, japan","('35.6274151', '140.1820367')",Japan,Chiba Prefecture,Chiba,,284-0032,Town Liner Avenue,Chiba
+"tobishima-shinden, aichi, japan","('35.0739924', '136.817179')",Japan,Aichi Prefecture,Tobishima,Ama County,490-1435,,Aichi
+"takakura,-iruma, saitama, japan","('35.835307', '139.3804074')",Japan,Saitama Prefecture,Iruma,,358-0021,Tokyo Kanjo,Saitama
+"kujominami,-osaka prefecture, japan","('34.6762977', '135.4665228')",Japan,Osaka Prefecture,Osaka,,554-0012,,Osaka
+"otowadai,-otsu, shiga, japan","('35.0005251', '135.863049')",Japan,Shiga Prefecture,Otsu,,520-0052,,Shiga
+"minamimachi,-hiroshima-ken, japan","('34.372737', '132.463235')",Japan,Hiroshima Prefecture,Hiroshima,,734-0007,,Hiroshima
+"(sonota),-kagawa, japan","('34.24717', '133.99471')",Japan,Kagawa,,,,,Kagawa
+"higashiishikawa,-hitachinaka, ibaraki, japan","('36.39659', '140.53479')",Japan,Ibaraki,,,,,Ibaraki
+"sakaihigashi,-niigata, japan","('37.52343', '138.91748')",Japan,Niigata,,,,,Niigata
+"horiage,-tōgane-shi, chiba-ken, japan","('37.52343', '138.91748')",Japan,Niigata,,,,,Niigata
+"tanigawa,-daito, osaka prefecture, japan","('35.56517', '140.36707')",Japan,Chiba,,Tōgane-shi,,,Chiba
+"araicho-chidori, takasago, hyogo prefecture, japan","('34.74834', '134.80383')",Japan,Hyōgo,,,,,Hyogo
+"kurihama,-yokosuka, kanagawa, japan","('35.2331376', '139.7013491')",Japan,Kanagawa Prefecture,Yokosuka,,238-8550,National Highway Route 134,Kanagawa
+"kasumigaoka,-fukuoka, japan","('33.6725836', '130.4372322')",Japan,Fukuoka Prefecture,Fukuoka,,813-0003,,Fukuoka
+"taniyamachuo,-kagoshima, kagoshima, japan","('31.5238251', '130.5207993')",Japan,Kagoshima Prefecture,Kagoshima,,892-8677,,Kagoshima
+"hirodaiotamachi,-kanagawa, japan","('35.41746', '139.33885')",Japan,Kanagawa,,,,,Kanagawa
+"sanbocho,-osaka prefecture, japan","('34.68631', '135.51968')",Japan,Ōsaka,,,,,Osaka
+"chuo,-yashio, saitama, japan","('35.8194748', '139.8276329')",Japan,Saitama Prefecture,Yashio,,340-0802,,Saitama
+"noda,-noda-shi, chiba-ken, japan","('35.9458183', '139.8669643')",Japan,Chiba Prefecture,Noda,,278-0005,,Chiba
+"seki,-gifu prefecture, japan","('35.4958031', '136.9181482')",Japan,Gifu Prefecture,Seki,,,,Gifu
+"hinode,-honjo, saitama, japan","('36.2378', '139.19023')",Japan,Saitama,,,,,Saitama
+"akitsu,-kumamoto-ken, japan","('32.7722213', '130.7730714')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,,Kumamoto
+"mizonokuchi,-kanagawa, japan","('35.5999254', '139.6105114')",Japan,Kanagawa Prefecture,Kawasaki,,213-0011,キラリデッキ,Kanagawa
+"nakashimamachi,-kumamoto prefecture, japan","('32.7653458', '130.6329442')",Japan,Kumamoto Prefecture,Kumamoto,,860-8601,,Kumamoto
+"baba,-hakusan, ishikawa, japan","('36.43333', '136.63333')",Japan,Ishikawa,,,,,Ishikawa
+"shiroko-ekimae, suzuka, mie, japan","('34.88333', '136.58333')",Japan,Mie,,,,,Mie
+"uno,-tamano-shi, okayama-ken, japan","('34.4947746', '133.9539193')",Japan,Okayama Prefecture,Tamano,,706-0002,National Highway Route 30,Okayama
+"katagiharamiyakecho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"chigusadai,-chiba, japan","('35.6351051', '140.1210231')",Japan,Chiba Prefecture,Chiba,,264-0036,,Chiba
+"tokiwacho,-tondabayashi, osaka prefecture, japan","('34.5007034', '135.5983195')",Japan,Osaka Prefecture,Tondabayashi,,584-0035,,Osaka
+"shiratori,-miyagi, japan","('38.2448296', '140.8905559')",Japan,Miyagi Prefecture,Sendai,,984-0801,10 Tatamiyachó,Miyagi
+"suwa,-wakō-shi, saitama-ken, japan","('35.7787664', '139.6198477')",Japan,Saitama Prefecture,Wako,,351-0106,Sasame Dori,Saitama
+"iwasaki,-tamana, kumamoto, japan","('32.91667', '130.56667')",Japan,Kumamoto,,,,,Kumamoto
+"jindaiji-minamimachi, chofu, tokyo, japan","('35.65924', '139.54837')",Japan,Tōkyō,,,,,Tokyo
+"ashiyamachō,-sakado-shi, saitama-ken, japan","('35.973906', '139.399811')",Japan,Saitama Prefecture,Sakado,,350-0231,,Saitama
+"tenmachō,-shizuoka-ken, japan","('35.02522', '138.32542')",Japan,Shizuoka,,,,,Shizuoka
+"namiemachi,-takasaki, gunma, japan","('36.33333', '139.01667')",Japan,Gunma,,,,,Gunma
+"asamadai,-ageo-shi, saitama-ken, japan","('35.97043', '139.58159')",Japan,Saitama,,,,,Saitama
+"shigita,-osaka prefecture, japan","('34.6852038', '135.544978')",Japan,Osaka Prefecture,Osaka,,537-0022,今里筋,Osaka
+"takazu,-yachiyo-shi, chiba-ken, japan","('35.73921', '140.10502')",Japan,Chiba,,Yachiyo,,,Chiba
+"nishinoyamacho,-kawachinagano, osaka prefecture, japan","('34.456854', '135.562444')",Japan,Osaka Prefecture,Kawachinagano,,586-0021,,Osaka
+"chiyo,-fukuoka, japan","('33.60639', '130.41806')",Japan,Fukuoka,,,,,Fukuoka
+"numatacho-oaza tomo, hiroshima prefecture, japan","('34.38333', '133.38333')",Japan,Hiroshima,,,,,Hiroshima
+"kohama,-osaka prefecture, japan","('34.6182376', '135.4917095')",Japan,Osaka Prefecture,Osaka,,559-0001,Kishu Highway,Osaka
+"chuo,-utsunomiya, tochigi, japan","('36.56583', '139.88361')",Japan,Tochigi,,,,,Tochigi
+"shikatachō-shikatamachi, kakogawa-shi, hyōgo-ken, japan","('34.817654', '134.825539')",Japan,Hyogo Prefecture,Kakogawa,,675-0321,,Hyogo
+"matsuhama,-niigata-ken, japan","('37.95727', '139.14499')",Japan,Niigata,,,,,Niigata
+"miyanogicho,-chiba, japan","('35.6560466', '140.1032767')",Japan,Chiba Prefecture,Chiba,,263-0054,,Chiba
+"nagitsuji-ikejiricho, kyoto prefecture, japan","('34.9729164', '135.8130817')",Japan,Kyoto Prefecture,Kyoto,,607-8164,,Kyoto
+"nerima,-nerima, tokyo, japan","('35.7373437', '139.6544918')",Japan,,Nerima,,,Senkawa Dori Avenue,
+"tabata,-aichi, japan","('35.1768083', '136.8892815')",Japan,Aichi Prefecture,Nagoya,,451-0042,Endonji shōten gai,Aichi
+"naka,-yamaga, kumamoto, japan","('33.012596', '130.700369')",Japan,Kumamoto Prefecture,Yamaga,,,,Kumamoto
+"kamihongō,-matsudo-shi, chiba-ken, japan","('35.7896751', '139.9162363')",Japan,Chiba Prefecture,Matsudo,,270-2241,参道,Chiba
+"jonanmachitaka,-kumamoto prefecture, japan","('32.62049', '130.7543')",Japan,Kumamoto,,,,,Kumamoto
+"koyochonaka,-hyogo prefecture, japan","('35.04032', '134.82597')",Japan,Hyōgo,,,,,Hyogo
+"miyamotochō,-kanagawa-ken, japan","('35.5309928', '139.7042048')",Japan,Kanagawa Prefecture,Kawasaki,,210-0004,,Kanagawa
+"daigokagiocho,-kyoto prefecture, japan","('35.25432', '135.44118')",Japan,Kyōto,,,,,Kyoto
+"sangenchō,-toyota-shi, aichi-ken, japan","('35.087', '137.15')",Japan,Aichi,,Toyota-shi,,,Aichi
+"sanjo,-suzuka, mie, japan","('34.88333', '136.58333')",Japan,Mie,,,,,Mie
+"fukamidai,-yamato, kanagawa, japan","('35.41746', '139.33885')",Japan,Kanagawa,,,,,Kanagawa
+"higashiyurigaoka,-kanagawa, japan","('35.5980653', '139.5229701')",Japan,Kanagawa Prefecture,Kawasaki,,215-0017,,Kanagawa
+"hirao,-osaka prefecture, japan","('34.6404664', '135.4698382')",Japan,Osaka Prefecture,Osaka,,551-0031,Taisho-dori,Osaka
+"takagimachi,-saga, saga, japan","('33.2559445', '130.3070532')",Japan,Saga Prefecture,Saga,,840-0823,,Saga
+"shinonomecho,-izumiotsu, osaka prefecture, japan","('34.5047719', '135.4116845')",Japan,Osaka Prefecture,Izumiotsu,,595-0026,,Osaka
+"miwa,-kurashiki, okayama, japan","('34.601334', '133.775948')",Japan,Okayama Prefecture,Kurashiki,,710-8602,,Okayama
