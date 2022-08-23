@@ -1,2 +1,3 @@
 /geckodriver.log
 /.last_attempt.log
+.env
