@@ -15,7 +15,7 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - uses: Gr1N/setup-poetry@v4 # This action sets up a poetry environment
+    - uses: Gr1N/setup-poetry@v7 # This action sets up a poetry environment
     - name: Install dependencies
       run: |
         poetry install
