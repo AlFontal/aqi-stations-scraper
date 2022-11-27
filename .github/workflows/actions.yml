@@ -12,10 +12,10 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@main
       with:
         python-version: 3.8
-    - uses: Gr1N/setup-poetry@v7 # This action sets up a poetry environment
+    - uses: Gr1N/setup-poetry@main # This action sets up a poetry environment
     - name: Install dependencies
       run: |
         poetry install
