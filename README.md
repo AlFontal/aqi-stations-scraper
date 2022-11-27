@@ -1,6 +1,7 @@
 # AQI Stations Scraper
 
 [![Update datasets](https://github.com/AlFontal/aqi-stations-scraper/actions/workflows/actions.yml/badge.svg)](https://github.com/AlFontal/aqi-stations-scraper/actions/workflows/actions.yml)
+![python](https://img.shields.io/badge/python-v3.10-orange?logo=Python&logoColor=white)
 
 I made this small Python utility in order to keep an updated record of  the historical data for the
 Air Quality Index for the >180 Japanese Air Monitoring stations, as I needed this data for my PhD
@@ -22,7 +23,8 @@ to run the workflow every Sunday at 2:00 AM UTC and update the datasets with new
 In case you want to run a local instance, you will need to first clone the repo and generate a
 `.env` file in the root directory including the following variables which will then be used when
 doing the requests to the site:
-```
+
+```bash
 USER_FULL_NAME = 'Your name'
 USER_EMAIL = 'Your email'
 USER_ORGANIZATION = 'Your org'
@@ -30,21 +32,28 @@ USER_ORGANIZATION = 'Your org'
 
 To reproduce the environment you will need to use `poetry` to install the dependencies, which you
 can install either by running (recommended):
-```
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
 ```
 
-Or if you want to use `pip` (beware it might cause some dependency conflict):
+Or if you want to use `pipx`:
+
+```bash
+pipx install poetry
 ```
-pip install --user poetry
-```
+
+You can check the [official poetry docs](https://python-poetry.org/docs/#installing-with-the-official-installer) to see the up-to-date installation instructions.
+
 With a working version of `poetry` running in your system, just run:
-```
+
+```bash
 poetry install
 ```
 
 Which will install the dependencies defined in `pyproject.toml`. You should now be able to use:
-```
+
+```bash
 poetry run python japan_aqi.py
 ```
 
