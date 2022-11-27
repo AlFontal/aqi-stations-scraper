@@ -1,18 +1,17 @@
 [tool.poetry]
 name = "aqi-stations-scraper"
 version = "0.1.0"
-description = ""
+description = "Small Python utility used to generate historical Air Quality Index datasets scraping https://aqicn.org"
 authors = ["Alejandro Fontal <alejandrofontal92@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-selenium = "^3.141.0"
-requests = "^2.25.1"
-beautifulsoup4 = "^4.9.3"
-geckodriver-autoinstaller = "^0.1.0"
-python-dotenv = "^0.18.0"
-pandas = "^1.4.3"
-tqdm = "^4.64.0"
+python = "^3.10"
+selenium = "*"
+requests = "*"
+beautifulsoup4 = "*"
+geckodriver-autoinstaller = "*"
+python-dotenv = "*"
+pandas = "*"
 
 [tool.poetry.dev-dependencies]
 
