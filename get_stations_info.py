@@ -1,5 +1,4 @@
 import pandas as pd
-from tqdm.auto import tqdm
 import geckodriver_autoinstaller
 
 from glob import glob
@@ -28,7 +27,7 @@ def get_directions_info(stations: list, options=None) -> pd.DataFrame:
 
     driver = webdriver.Firefox(options=options)
     directions_info = defaultdict(list)
-    for i, station in tqdm(enumerate(stations), desc='Getting stations info', total=len(stations)):
+    for i, station in enumerate(stations):
         if i % 100 == 0:
             driver.get('https://www.mapdevelopers.com/geocode_tool.php')
             sleep(10)
