@@ -11,14 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
-    - name: Set up Python 3.8
-      uses: actions/setup-python@main
+    - name: Set up Python and cache poetry dependencies
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.8
-    - uses: Gr1N/setup-poetry@main # This action sets up a poetry environment
+        python-version: 3.10.8
+        cache: poetry
     - name: Install dependencies
-      run: |
-        poetry install
+      run: poetry install --no-root
     - name: Fetch all datasets
       # Load github secrets stored variables into environment
       env:
